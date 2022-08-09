@@ -1,8 +1,10 @@
 #### Bem-vindo(a),
 
-- 🔭 Hoje atuo como Gerente de TI
+O objetivo aqui é compartilhar laboratórios sobre DevOps, entre outras coisas, Python, Docker, Vagrant, Ansible e Terraform e MultiCloud.
+
+- 🔭 Atuando como Gerente de TI
 - 🌱 Estudando Python e DevOps
-- 💬 Contate-me pelo email nilo.lima@gmail.com
+- 💬 Contate-me pelo email: nilo.lima@gmail.com
 
 <div align="left">
   <a href="https://github.com/nilo-lima">
