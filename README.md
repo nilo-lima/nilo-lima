@@ -1,6 +1,6 @@
-#### Olá 👋
+#### Bem-vindo(a),
 
-- 🔭 Hoje trabalho como Gerente de TI
+- 🔭 Hoje atuo como Gerente de TI
 - 🌱 Estudando Python e DevOps
 - 💬 Contate-me pelo email nilo.lima@gmail.com
 
