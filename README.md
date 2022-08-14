@@ -1,7 +1,5 @@
 #### Bem-vindo(a),
 
-O objetivo aqui é compartilhar laboratórios sobre DevOps, entre outras coisas, Python, Docker, Vagrant, Ansible e Terraform e MultiCloud.
-
 - 🔭 Atuando como Gerente de TI
 - 🌱 Estudando Python e DevOps
 - 💬 Contate-me pelo email: nilo.lima@gmail.com
