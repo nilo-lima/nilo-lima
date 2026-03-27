@@ -1,7 +1,6 @@
 #### Bem-vindo(a),
 
-- 🔭 Atuando como Gerente de TI
-- 🌱 Estudando Python e DevOps
+- 🌱 Estudando DevOps e Cloud Computing
 - 💬 Contate-me pelo email: nilo.lima@gmail.com
 
 <div align="left">
