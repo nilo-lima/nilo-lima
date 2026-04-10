@@ -1,4 +1,4 @@
-name: Update Credly Badges
+name: Update badges
 
 on:
   schedule:
@@ -6,7 +6,8 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-badges:
+  update-readme:
+    name: Update Readme with Credly Badges
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -14,8 +15,10 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Update Badges
-        uses: erichalldev/credly-badges-readme@main
+      - name: Badges - Readme
+        uses: pemtajo/badge-readme@main
         with:
-          credly_user: nilo-lima-jr
-          badge_count: 83
+          CREDLY_USER: nilo-lima-jr
+          # Forçamos um número alto para ele tentar buscar além da primeira aba
+          NUMBER_LAST_BADGES: 50
+          COMMIT_MESSAGE: "chore: update credly badges"
