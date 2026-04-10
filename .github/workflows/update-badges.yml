@@ -1,19 +1,21 @@
-name: Update badges
+name: Update Credly Badges
 
 on:
   schedule:
-    # Runs at 0am UTC every day
     - cron: "0 0 * * *"
-  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
+  workflow_dispatch:
 
 jobs:
-  update-readme:
-    name: Update Readme with Credly Badges
+  update-badges:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - name: Badges - Readme
-        uses: pemtajo/badge-readme@main
+      - title: Checkout Repository
+        uses: actions/checkout@v4
+
+      - title: Update Badges
+        uses: erichalldev/credly-badges-readme-action@main
         with:
-          COMMIT_MESSAGE: "Add and update my latest badges"
-          CREDLY_USER: nilo-lima-jr
-          NUMBER_LAST_BADGES: 50
+          credly_user: nilo-lima-jr
+          badge_count: 83 # Aqui você define quantas quer mostrar (ex: as 10 mais recentes)
