@@ -16,4 +16,4 @@ jobs:
         with:
           COMMIT_MESSAGE: "Add and update my latest badges"
           CREDLY_USER: nilo-lima-jr
-          BADGE_SIZE: 96
+          NUMBER_LAST_BADGES: 50
