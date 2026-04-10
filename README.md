@@ -31,6 +31,9 @@ Acredito que o aprendizado contínuo é a única constante na nossa área, por i
 <details>
   <summary> Certificações e Licenças </summary>
 <!--START_SECTION:badges-->
+<a href="https://www.credly.com/users/nilo-lima-jr/badges" title="Oracle Data Platform 2025 Certified Foundations Associate"><img src="https://images.credly.com/size/80x80/images/c746fd67-8c83-490c-9a40-dc001cb4e806/OCI25DCFAV2_cached_image_20251109-31-fpjo8.png" alt="Oracle Data Platform 2025 Certified Foundations Associate" width="80" height="80"></a>
+<a href="https://www.credly.com/users/nilo-lima-jr/badges" title="Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate"><img src="https://images.credly.com/size/80x80/images/4217175b-3c55-4040-b2cf-ff5d51fda86b/OCI25AICFAV1_cached_image_20251105-32-qcfkm2.png" alt="Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate" width="80" height="80"></a>
+<a href="https://www.credly.com/users/nilo-lima-jr/badges" title="Oracle Cloud Infrastructure 2025 Certified Foundations Associate"><img src="https://images.credly.com/size/80x80/images/e06b2389-793f-40d5-ae73-2495fe84c6b2/OCI25FNDCFAV1_cached_image_20251102-31-varncb.png" alt="Oracle Cloud Infrastructure 2025 Certified Foundations Associate" width="80" height="80"></a>
 <!--END_SECTION:badges-->
 </details>
 
