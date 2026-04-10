@@ -1,0 +1,19 @@
+name: Update badges
+
+on:
+  schedule:
+    # Runs at 0am UTC every day
+    - cron: "0 0 * * *"
+  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
+
+jobs:
+  update-readme:
+    name: Update Readme with Credly Badges
+    runs-on: ubuntu-latest
+    steps:
+      - name: Badges - Readme
+        uses: pemtajo/badge-readme@main
+        with:
+          COMMIT_MESSAGE: "Add and update my latest badges"
+          CREDLY_USER: nilo-lima-jr
+          BADGE_SIZE: 96
