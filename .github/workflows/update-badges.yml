@@ -15,7 +15,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Update Badges
-        uses: erichalldev/credly-badges-readme-action@main
+        uses: erichalldev/credly-badges-readme@main
         with:
           credly_user: nilo-lima-jr
           badge_count: 83
