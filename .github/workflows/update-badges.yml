@@ -11,11 +11,11 @@ jobs:
     permissions:
       contents: write
     steps:
-      - title: Checkout Repository
+      - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - title: Update Badges
+      - name: Update Badges
         uses: erichalldev/credly-badges-readme-action@main
         with:
           credly_user: nilo-lima-jr
-          badge_count: 83 # Aqui você define quantas quer mostrar (ex: as 10 mais recentes)
+          badge_count: 83
