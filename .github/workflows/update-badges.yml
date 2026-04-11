@@ -1,8 +1,8 @@
 name: Update badges
 
 on:
-  schedule:
-    - cron: "0 0 * * *"
+  #schedule:
+  #  - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -19,5 +19,5 @@ jobs:
         uses: pemtajo/badge-readme@main
         with:
           CREDLY_USER: nilo-lima-jr
-          NUMBER_LAST_BADGES: 100 # Aumentado para cobrir todas as medalhas atuais e futuras
+          NUMBER_LAST_BADGES: 65 # Aumentado para cobrir todas as medalhas atuais e futuras
           COMMIT_MESSAGE: "chore: expandindo limite de badges para 100"
