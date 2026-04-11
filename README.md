@@ -10,8 +10,6 @@ Com uma base sólida em tecnologia, hoje dedico meus dias a arquitetar soluçõe
 
 Acredito que o aprendizado contínuo é a única constante na nossa área, por isso estou sempre envolvido em projetos práticos e laboratórios que desafiam o status quo da infraestrutura tradicional.
 
-<br />
-
 ## 🛠️ Um pouco mais sobre mim:
 
 * 🚀 Atualmente: Focado em projetos de Cloud & DevOps e em busca de novos desafios profissionais.
@@ -24,7 +22,33 @@ Acredito que o aprendizado contínuo é a única constante na nossa área, por i
   
 * ⚡ Curiosidade: Não começo meu dia sem um café forte e, entre uma automação e outra, ostento com orgulho o título de churrasqueiro oficial da família.
   
+## 📫 Contato Direto
+
+Sinta-se à vontade para me chamar para conversar sobre oportunidades, tecnologia ou até mesmo para trocar dicas de churrasco! ☕🥩
+
+* 💼 [Interesse Profissional](https://wa.me/5551999331601?text=Olá%20Nilo%2C%20vi%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20falar%20sobre%20oportunidades.)
+* 🤝 [Networking e DevOps](https://wa.me/5551999331601?text=Fala%20Nilo!%20Vi%20seus%20projetos%20de%20DevOps%20e%20queria%20trocar%20uma%20ideia.)
+* 🥩 [Café e Churrasco](https://wa.me/5551999331601?text=Oi%20Nilo%2C%20vi%20que%20você%20curte%20café%20e%20churrasco%2C%20bora%20conectar%3F)
+
 <br />
+
+<p align="left">
+  <a href="https://linkedin.com/in/nilolima" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+    <a href="./assets/markdown/curriculo_devops.md" target="_blank">
+    <img src="https://img.shields.io/badge/Currículo-607D8B?style=for-the-badge&logo=googledrive&logoColor=white" alt="Currículo">
+  </a>
+  <a href="./assets/markdown/carta_de_apresentacao_devops.md" target="_blank">
+    <img src="https://img.shields.io/badge/Carta%20de%20Apresentação-003B5C?style=for-the-badge&logo=googledocs&logoColor=white" alt="Carta de Apresentação">
+  </a>
+  <a href="mailto:nilo.lima@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://www.credly.com/users/nilo-lima-jr/badges#credly" target="_blank">
+    <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly">
+  </a>
+</p>
   
 ## 🏆 Certificações e 📈 Atividades no GitHub 
 
@@ -155,30 +179,6 @@ Se você gosta dos meus projetos open source, considere:
 
 <br />
 
-## 📫 Contato Direto
+---
 
-Sinta-se à vontade para me chamar para conversar sobre oportunidades, tecnologia ou até mesmo para trocar dicas de churrasco! ☕🥩
-
-* 💼 [Interesse Profissional](https://wa.me/5551999331601?text=Olá%20Nilo%2C%20vi%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20falar%20sobre%20oportunidades.)
-* 🤝 [Networking e DevOps](https://wa.me/5551999331601?text=Fala%20Nilo!%20Vi%20seus%20projetos%20de%20DevOps%20e%20queria%20trocar%20uma%20ideia.)
-* 🥩 [Café e Churrasco](https://wa.me/5551999331601?text=Oi%20Nilo%2C%20vi%20que%20você%20curte%20café%20e%20churrasco%2C%20bora%20conectar%3F)
-
-<br />
-
-<p align="left">
-  <a href="https://linkedin.com/in/nilolima" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-    <a href="./assets/markdown/curriculo_devops.md" target="_blank">
-    <img src="https://img.shields.io/badge/Currículo-607D8B?style=for-the-badge&logo=googledrive&logoColor=white" alt="Currículo">
-  </a>
-  <a href="./assets/markdown/carta_de_apresentacao_devops.md" target="_blank">
-    <img src="https://img.shields.io/badge/Carta%20de%20Apresentação-003B5C?style=for-the-badge&logo=googledocs&logoColor=white" alt="Carta de Apresentação">
-  </a>
-  <a href="mailto:nilo.lima@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://www.credly.com/users/nilo-lima-jr/badges#credly" target="_blank">
-    <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly">
-  </a>
-</p>
+**Gostou do meu perfil?** [Me indique para o GitHub Stars ⭐](https://stars.github.com/nominate/)
