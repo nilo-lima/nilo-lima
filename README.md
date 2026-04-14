@@ -116,15 +116,18 @@ Sinta-se à vontade para me chamar para conversar sobre oportunidades, tecnologi
     <p align="center">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nilo-lima&show_icons=true&theme=dracula&include_all_commits=true" />
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilo-lima&layout=compact&theme=dracula" />
+      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nilo-lima&theme=dark" alt="nilo-lima" />
     </p>
 </details>
 
 <br />
 
+<!--
 ## 📊 Estatísticas
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nilo-lima&theme=dark" alt="nilo-lima" /></p>
 
 <br />
+-->
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> </h2>
 
@@ -170,15 +173,25 @@ Sinta-se à vontade para me chamar para conversar sobre oportunidades, tecnologi
 
 <br />
 
+## Projetos Open Source ✨
+
+| Projetos | Descrição |
+|---------|-------------|
+| 🤖 **[gemini-cli-contexto-framework](https://github.com/nilo-lima/gemini-cli-contexto-framework)** | Framework para automação de infraestrutura utilizando IA e Gemini CLI. |
+| 🏗️ **[lab-infra-linux-enterprise](https://github.com/nilo-lima/lab-infra-linux-enterprise)** | Laboratório completo de infraestrutura Linux Enterprise (DHCP, DNS, etc.). |
+| 🐧 **[debian-devops-lab](https://github.com/nilo-lima/debian-devops-lab)** | Ambiente de laboratório focado em práticas DevOps utilizando Debian. |
+
+<br />
+
 ## 💖 Apoie meu trabalho
 
-Se você gosta dos meus projetos open source, considere:
-- ⭐ Dar estrelas nos repositórios
-- � Reportar bugs ou melhorias
-- 🤝 Contribuir com código
+Se você gosta dos meus projetos, considere:
+- ⭐ Dar uma estrela nos repositórios.
+- 🐛 Reportar bugs ou melhorias.
+- 🤝 Contribuir com código.
 
 <br />
 
 ---
 
-**Gostou do meu perfil?** [Me indique para o GitHub Stars ⭐](https://stars.github.com/nominate/)
+**💎 Gostou do meu perfil?**  [Me indique para o GitHub Stars](https://stars.github.com/nominate/).
