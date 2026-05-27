@@ -55,6 +55,8 @@ Sinta-se à vontade para me chamar para conversar sobre oportunidades, tecnologi
 <details>
   <summary> Certificações e Licenças </summary>
 <!--START_SECTION:badges-->
+[![ISO/IEC 20000 Lead Implementer](https://images.credly.com/size/80x80/images/b3c99780-4fc5-404c-9b70-55e981f780f7/1kwl5dca_1779901358173_badge_cached_image_20260527-32-25jqb9.png)](https://www.credly.com/users/nilo-lima-jr/badges)
+[![ISO/IEC 20000 Foundation](https://images.credly.com/size/80x80/images/3529eaab-739a-4b8b-a24e-5bf2ab898a73/bcowutvs_1779900040944_badge_cached_image_20260527-8-x9d7d.png)](https://www.credly.com/users/nilo-lima-jr/badges)
 [![Oracle Fusion Cloud Applications ERP Process Essentials Certified - Rel 1](https://images.credly.com/size/80x80/images/fbe853ad-bfbc-4b56-9fda-edc7ae31b2d9/OMBPERPCFA1_cached_image_20260427-31-n5ye9y.png)](https://www.credly.com/users/nilo-lima-jr/badges)
 [![Oracle Data Platform 2025 Certified Foundations Associate](https://images.credly.com/size/80x80/images/c746fd67-8c83-490c-9a40-dc001cb4e806/OCI25DCFAV2_cached_image_20251109-31-fpjo8.png)](https://www.credly.com/users/nilo-lima-jr/badges)
 [![Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate](https://images.credly.com/size/80x80/images/4217175b-3c55-4040-b2cf-ff5d51fda86b/OCI25AICFAV1_cached_image_20251105-32-qcfkm2.png)](https://www.credly.com/users/nilo-lima-jr/badges)
