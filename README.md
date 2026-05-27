@@ -54,6 +54,7 @@ Sinta-se à vontade para me chamar para conversar sobre oportunidades, tecnologi
 
 <details>
   <summary> Certificações e Licenças </summary>
+
 <!--START_SECTION:badges-->
 [![AWS Incident Response Demonstrated](https://images.credly.com/size/80x80/images/8dd6f516-0dd3-4b5e-aacf-8e86e737a95d/blob)](https://www.credly.com/badges/e807e349-63ab-46fb-ad48-a78dae0f70ad)
 [![AWS Serverless Demonstrated](https://images.credly.com/size/80x80/images/b3885091-25bc-42d0-8989-34cca82f3056/blob)](https://www.credly.com/badges/0b32be3d-ed62-450f-972a-39af3a422b66)
