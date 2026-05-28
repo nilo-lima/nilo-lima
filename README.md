@@ -56,6 +56,7 @@ Sinta-se à vontade para me chamar para conversar sobre oportunidades, tecnologi
   <summary> Certificações e Licenças </summary>
 
 <!--START_SECTION:badges-->
+[![AWS Agentic AI Demonstrated](https://images.credly.com/size/80x80/images/6f40bf38-1725-40d8-99a2-f6bb1bafec0e/blob)](https://www.credly.com/badges/f4e98d9e-d74f-4c95-b339-11d5d565d51c)
 [![AWS Incident Response Demonstrated](https://images.credly.com/size/80x80/images/8dd6f516-0dd3-4b5e-aacf-8e86e737a95d/blob)](https://www.credly.com/badges/e807e349-63ab-46fb-ad48-a78dae0f70ad)
 [![AWS Serverless Demonstrated](https://images.credly.com/size/80x80/images/b3885091-25bc-42d0-8989-34cca82f3056/blob)](https://www.credly.com/badges/0b32be3d-ed62-450f-972a-39af3a422b66)
 [![AWS Application Networking Demonstrated](https://images.credly.com/size/80x80/images/ed8cf03b-6269-4265-a65b-68e67e49ce6b/blob)](https://www.credly.com/badges/4813e478-778a-431c-bc28-f492f44643c4)
@@ -103,7 +104,6 @@ Sinta-se à vontade para me chamar para conversar sobre oportunidades, tecnologi
 [![Help Desk Professional Certificate - HDPC™](https://images.credly.com/size/80x80/images/f54b8ad5-163d-4f6a-89c0-bc53a3a30ceb/blob)](https://www.credly.com/badges/07c8b35b-f2e1-45c1-bf3c-6c40ea6d05e0)
 [![OKR Certified Professional - OKRCP](https://images.credly.com/size/80x80/images/08bfd91f-2036-42d1-978b-78f77e572622/blob)](https://www.credly.com/badges/6b23efab-f88c-465f-bdaf-284a7e7eed89)
 [![Service Desk Leader Professional Certification - SDLPC™](https://images.credly.com/size/80x80/images/204fa726-b6f3-4521-afa9-68b39f51fc22/blob)](https://www.credly.com/badges/a6c7ee10-f2fa-45e5-abca-04752b6afea4)
-[![Agile HR Certified Professional](https://images.credly.com/size/80x80/images/b9cc6190-d456-4f2c-94a5-3b94d3fd998c/blob)](https://www.credly.com/badges/e1b69c55-b17b-49a5-8153-4dfd8993443a)
 [![ISO/IEC 20000 Lead Implementer](https://images.credly.com/size/80x80/images/b3c99780-4fc5-404c-9b70-55e981f780f7/1kwl5dca_1779901358173_badge_cached_image_20260527-32-25jqb9.png)](https://www.credly.com/users/nilo-lima-jr/badges)
 [![ISO/IEC 20000 Foundation](https://images.credly.com/size/80x80/images/3529eaab-739a-4b8b-a24e-5bf2ab898a73/bcowutvs_1779900040944_badge_cached_image_20260527-8-x9d7d.png)](https://www.credly.com/users/nilo-lima-jr/badges)
 [![Oracle Fusion Cloud Applications ERP Process Essentials Certified - Rel 1](https://images.credly.com/size/80x80/images/fbe853ad-bfbc-4b56-9fda-edc7ae31b2d9/OMBPERPCFA1_cached_image_20260427-31-n5ye9y.png)](https://www.credly.com/users/nilo-lima-jr/badges)
