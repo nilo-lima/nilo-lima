@@ -14,7 +14,7 @@ Hoje foco em arquitetar ambientes modernos com containers, IaC e adoção pragm�
   
 * 🎯 Objetivo: Liderar modernizações de plataforma, conectando infraestrutura crítica a resultados de negócio com automação multi-cloud, DevSecOps e IA.
   
-* 💬 Pergunte-me sobre: arquitetura multi-cloud, DevSecOps, governança de plataformas e integração de IA em operações críticas.
+* 💬 Pergunte-me sobre: arquitetura multi-cloud, DevOps, governança de plataformas e integração de IA em operações críticas.
   
 * 🌱 Explorando atualmente: DevSecOps, FinOps e integração de agentes de IA em pipelines DevOps.
   
