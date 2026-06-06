@@ -4,9 +4,9 @@
 
 ## 🌐 Nilo Lima Jr
 
-Com mais de 30 anos de carreira em TI (desde 1994), conecto infraestrutura crítica a resultados de negócio com automação multi-cloud. Especialista em Cloud Computing, DevOps e Governança de Plataformas — atuei do setor financeiro ao industrial, sempre na intersecção entre tecnologia e impacto real.
+Com mais de 30 anos de carreira em TI (desde 1994), conecto infraestrutura crítica a resultados de negócio com automação multi-cloud. Especialista em Cloud Computing, DevOps e Governança de Plataformas: atuei do setor financeiro ao industrial, sempre na intersecção entre tecnologia e impacto real.
 
-Hoje foco em arquitetar ambientes modernos com containers, IaC e adoção pragmática de IA — entregando resiliência e agilidade sem abrir mão de governança.
+Hoje foco em arquitetar ambientes modernos com containers, IaC e adoção pragmática de IA: entregando resiliência e agilidade sem abrir mão de governança.
 
 ## 🛠️ Um pouco mais sobre mim:
 
@@ -24,10 +24,10 @@ Hoje foco em arquitetar ambientes modernos com containers, IaC e adoção pragm�
 
 | Período | Empresa | Papel |
 |---------|---------|-------|
-| 2002–2025 | **Full Gauge Controls** | Gestor de TI — cloud (AWS/Azure), containers, IaC, observabilidade e segurança ISO 27001 |
-| 1999–2002 | **Informa Informática** *(Sicredi)* | Especialista em TI — infraestrutura crítica em ambiente financeiro distribuído |
-| 1998–1999 | **Acesso Informática** | Especialista em TI — implementação de ERP e estruturação de infraestrutura |
-| 1994–1996 | **Banco do Brasil** | Técnico em Informática — operações em ambiente de processamento crítico |
+| 2002–2025 | **Full Gauge Controls** | Gestor de TI: cloud (AWS/Azure), containers, IaC, observabilidade e segurança ISO 27001 |
+| 1999–2002 | **Informa Informática** *(Sicredi)* | Especialista em TI: infraestrutura crítica em ambiente financeiro distribuído |
+| 1998–1999 | **Acesso Informática** | Especialista em TI: implementação de ERP e estruturação de infraestrutura |
+| 1994–1996 | **Banco do Brasil** | Técnico em Informática: operações em ambiente de processamento crítico |
 
 ## 📫 Contato Direto
 
@@ -80,7 +80,7 @@ Sinta-se à vontade para me chamar para conversar sobre oportunidades, tecnologi
 [![AWS Incident Response Demonstrated](https://images.credly.com/size/80x80/images/8dd6f516-0dd3-4b5e-aacf-8e86e737a95d/blob)](https://www.credly.com/badges/e807e349-63ab-46fb-ad48-a78dae0f70ad)
 [![AWS Serverless Demonstrated](https://images.credly.com/size/80x80/images/b3885091-25bc-42d0-8989-34cca82f3056/blob)](https://www.credly.com/badges/0b32be3d-ed62-450f-972a-39af3a422b66)
 [![AWS Application Networking Demonstrated](https://images.credly.com/size/80x80/images/ed8cf03b-6269-4265-a65b-68e67e49ce6b/blob)](https://www.credly.com/badges/4813e478-778a-431c-bc28-f492f44643c4)
-[![GenAI Adoption Report 2026 — Survey Contributor](https://images.credly.com/size/80x80/images/883d0f48-5473-420b-b950-a1facb01abc4/blob)](https://www.credly.com/badges/2d2cb122-2c32-4c2e-a4d4-949217c5b35e)
+[![GenAI Adoption Report 2026: Survey Contributor](https://images.credly.com/size/80x80/images/883d0f48-5473-420b-b950-a1facb01abc4/blob)](https://www.credly.com/badges/2d2cb122-2c32-4c2e-a4d4-949217c5b35e)
 [![Gen AI User](https://images.credly.com/size/80x80/images/21b673c0-6464-4302-9449-260bcd010058/blob)](https://www.credly.com/badges/35d45955-834d-4076-b9cd-d57da60efc31)
 [![OPSWAT Introduction to Critical Infrastructure Protection (ICIP)](https://images.credly.com/size/80x80/images/f9f3c533-9b5a-47eb-8a3e-5734663116c0/image.png)](https://www.credly.com/badges/1a84c557-da5b-48a8-af79-5ec6ae51110b)
 [![Cisco Networking Academy Learn-A-Thon 2026](https://images.credly.com/size/80x80/images/7bf55491-f0df-488f-84bf-4d51ada45316/blob)](https://www.credly.com/badges/f42ca5fe-63c8-4d8a-b185-3ab06bfec1a5)
@@ -190,6 +190,7 @@ Sinta-se à vontade para me chamar para conversar sobre oportunidades, tecnologi
     <td align="center"><a href="https://azure.microsoft.com/"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a><br/><sub>Azure</sub></td>
     <td align="center"><a href="https://cloud.google.com"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a><br/><sub>GCP</sub></td>
     <td align="center"><a href="https://www.oracle.com/cloud/"><img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="oci" width="40" height="40"/></a><br/><sub>Oracle Cloud</sub></td>
+    <td align="center"><a href="https://magalu.cloud/"><img src="https://br-se1.magaluobjects.com/site-institucional-prod-strapi-media/logo_svg_2d8ceeca28.svg" alt="magalucloud" width="40" height="40"/></a><br/><sub>Magalu Cloud</sub></td>
   </tr>
 </table>
 
