@@ -12,7 +12,7 @@ Hoje foco em arquitetar ambientes modernos com containers, IaC e adoção pragm�
 
 * 🚀 Atualmente: Focado em projetos de Cloud & DevOps e em busca de novos desafios profissionais.
   
-* 🎯 Objetivo: Aplicar metodologias ágeis e cultura DevOps para otimizar fluxos de entrega.
+* 🎯 Objetivo: Liderar modernizações de plataforma, conectando infraestrutura crítica a resultados de negócio com automação multi-cloud, DevSecOps e IA.
   
 * 💬 Pergunte-me sobre: AWS, Terraform, Docker, Linux e PostgreSQL.
   
