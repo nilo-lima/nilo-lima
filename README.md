@@ -154,8 +154,8 @@ Sinta-se à vontade para me chamar para conversar sobre oportunidades, tecnologi
 <details>
   <summary> Atividades no GitHub </summary>
     <p align="center">
-      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nilo-lima&show_icons=true&theme=dracula&include_all_commits=true" />
-      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilo-lima&layout=compact&theme=dracula" />
+      <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nilo-lima&show_icons=true&theme=dracula&include_all_commits=true" />
+      <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nilo-lima&layout=compact&theme=dracula" />
       <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=nilo-lima&theme=dark" alt="nilo-lima" />
     </p>
 </details>
@@ -214,7 +214,7 @@ Sinta-se à vontade para me chamar para conversar sobre oportunidades, tecnologi
     <td><a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a></td>
     <td><a href="https://ai.google.dev/"><img src="https://cdn.simpleicons.org/googlegemini/8E75FF" alt="gemini" width="40" height="40"/></a></td>
     <td><a href="https://claude.ai/"><img src="https://cdn.simpleicons.org/anthropic/D97757" alt="claude" width="40" height="40"/></a></td>
-    <td><a href="https://openai.com/"><img src="https://cdn.simpleicons.org/openai/412991" alt="openai" width="40" height="40"/></a></td>
+    <td><a href="https://openai.com/"><img src="assets/images/openai.svg" alt="openai" width="40" height="40"/></a></td>
     <td><a href="https://huggingface.co/"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" alt="huggingface" width="40" height="40"/></a></td>
   </tr>
 </table>
