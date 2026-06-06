@@ -45,6 +45,7 @@ jobs:
               name = b.get("badge_template", {}).get("name", "Badge")
               image = b.get("badge_template", {}).get("image", {})
               img_url = image.get("url", "") if isinstance(image, dict) else str(image)
+          img_url = img_url.replace("https://images.credly.com/images/", "https://images.credly.com/size/80x80/images/")
               badge_url = b.get("badge_url") or b.get("id") or ""
               if not badge_url.startswith("http"):
                   badge_url = f"https://www.credly.com/badges/{badge_url}"
