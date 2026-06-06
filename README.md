@@ -48,6 +48,9 @@ Sinta-se à vontade para me chamar para conversar sobre oportunidades, tecnologi
   <a href="https://www.credly.com/users/nilo-lima-jr/badges#credly" target="_blank">
     <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly">
   </a>
+  <a href="https://www.credential.net/profile/nilohernandezdelimajunior896171/wallet" target="_blank">
+    <img src="https://img.shields.io/badge/Accredible-00B8D9?style=for-the-badge&logoColor=white" alt="Accredible">
+  </a>
 </p>
   
 ## 🏆 Certificações e 📈 Atividades no GitHub 
