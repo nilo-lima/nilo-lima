@@ -60,7 +60,7 @@ Sinta-se à vontade para me chamar para conversar sobre oportunidades, tecnologi
 ## 🏆 Certificações e 📈 Atividades no GitHub 
 
 <details>
-  <summary> Certificações e Licenças </summary>
+  <summary> Certificações e Licenças (101) </summary>
 
 <!--START_SECTION:badges-->
 [![Certified Data Protection Officer (DPO)](https://images.credly.com/size/80x80/images/2924c424-3ac8-441b-a1c9-6f11dd5b33d3/gx1rtzhq_1780579523389_badge_cached_image_20260604-31-c4aziq.png)](https://www.credential.net/50529716-56c5-49eb-8d76-b7ee8d9de55c)
@@ -181,55 +181,98 @@ Sinta-se à vontade para me chamar para conversar sobre oportunidades, tecnologi
 <br />
 
 
-<h2> Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> </h2>
+<h2> Skills / Habilidades <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> </h2>
 
+**☁️ Cloud**
 <table>
   <tr>
-    <td><a href="https://aws.amazon.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a></td>
-    <td><a href="https://azure.microsoft.com/"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a></td>
-    <td><a href="https://cloud.google.com"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a></td>
-    <td><a href="https://www.oracle.com/cloud/"><img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="oci" width="40" height="40"/></a></td>
-    <td><a href="https://www.terraform.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/></a></td>
-    <td><a href="https://www.ansible.com/"><img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/></a></td>
-    <td><a href="https://www.vagrantup.com/"><img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/></a></td>
-    <td><a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></a></td>
-    <td><a href="https://kubernetes.io/"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a></td>
-    <td><a href="https://helm.sh/"><img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="helm" width="40" height="40"/></a></td>
+    <td align="center"><a href="https://aws.amazon.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a><br/><sub>AWS</sub></td>
+    <td align="center"><a href="https://azure.microsoft.com/"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a><br/><sub>Azure</sub></td>
+    <td align="center"><a href="https://cloud.google.com"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a><br/><sub>GCP</sub></td>
+    <td align="center"><a href="https://www.oracle.com/cloud/"><img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="oci" width="40" height="40"/></a><br/><sub>Oracle Cloud</sub></td>
   </tr>
+</table>
+
+**🏗️ IaC & Automação**
+<table>
   <tr>
-    <td><a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a></td>
-    <td><a href="https://github.com/"><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="40" height="40"/></a></td>
-    <td><a href="https://about.gitlab.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/></a></td>
-    <td><a href="https://gitea.io/"><img src="https://cdn.simpleicons.org/gitea/609926" alt="gitea" width="40" height="40"/></a></td>
-    <td><a href="https://www.jenkins.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/></a></td>
-    <td><a href="https://grafana.com"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/></a></td>
-    <td><a href="https://prometheus.io/"><img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/></a></td>
-    <td><a href="https://www.zabbix.com/"><img src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg" alt="zabbix" width="40" height="40"/></a></td>
-    <td><a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a></td>
-    <td><a href="https://www.centos.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" alt="centos" width="40" height="40"/></a></td>
+    <td align="center"><a href="https://www.terraform.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/></a><br/><sub>Terraform</sub></td>
+    <td align="center"><a href="https://www.ansible.com/"><img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/></a><br/><sub>Ansible</sub></td>
+    <td align="center"><a href="https://www.vagrantup.com/"><img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/></a><br/><sub>Vagrant</sub></td>
+    <td align="center"><a href="https://www.gnu.org/software/bash/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/></a><br/><sub>Bash</sub></td>
+    <td align="center"><a href="https://github.com/powershell/powershell"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" alt="powershell" width="40" height="40"/></a><br/><sub>PowerShell</sub></td>
+    <td align="center"><a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a><br/><sub>Python</sub></td>
   </tr>
+</table>
+
+**🐳 Containers & Orquestração**
+<table>
   <tr>
-    <td><a href="https://www.gnu.org/software/bash/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/></a></td>
-    <td><a href="https://github.com/powershell/powershell"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" alt="powershell" width="40" height="40"/></a></td>
-    <td><a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a></td>
-    <td><a href="https://httpd.apache.org/"><img src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" alt="apache" width="40" height="40"/></a></td>
-    <td><a href="https://www.nginx.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/></a></td>
-    <td><a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/></a></td>
-    <td><a href="https://mariadb.org/"><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/></a></td>
-    <td><a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/></a></td>
-    <td><a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/></a></td>
-    <td><a href="https://www.oracle.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a></td>
+    <td align="center"><a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></a><br/><sub>Docker</sub></td>
+    <td align="center"><a href="https://kubernetes.io/"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a><br/><sub>Kubernetes</sub></td>
+    <td align="center"><a href="https://helm.sh/"><img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="helm" width="40" height="40"/></a><br/><sub>Helm</sub></td>
   </tr>
+</table>
+
+**🔄 CI/CD & SCM**
+<table>
   <tr>
-    <td><a href="https://www.microsoft.com/sql-server"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sqlserver" width="40" height="40"/></a></td>
-    <td><a href="https://postman.com"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a></td>
-    <td><a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a></td>
-    <td><a href="https://ai.google.dev/"><img src="https://cdn.simpleicons.org/googlegemini/8E75FF" alt="gemini" width="40" height="40"/></a></td>
-    <td><a href="https://claude.ai/"><img src="https://cdn.simpleicons.org/anthropic/D97757" alt="claude" width="40" height="40"/></a></td>
-    <td><a href="https://openai.com/"><img src="assets/images/openai.svg" alt="openai" width="40" height="40"/></a></td>
-    <td><a href="https://huggingface.co/"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" alt="huggingface" width="40" height="40"/></a></td>
-    <td><a href="https://wazuh.com/"><img src="https://github.com/wazuh.png" alt="wazuh" width="40" height="40"/></a></td>
-    <td><a href="https://ministack.org/"><img src="https://ministack.org/ministack_symbol.svg" alt="ministack" width="40" height="40"/></a></td>
+    <td align="center"><a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a><br/><sub>Git</sub></td>
+    <td align="center"><a href="https://github.com/"><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="40" height="40"/></a><br/><sub>GitHub</sub></td>
+    <td align="center"><a href="https://about.gitlab.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/></a><br/><sub>GitLab</sub></td>
+    <td align="center"><a href="https://gitea.io/"><img src="https://cdn.simpleicons.org/gitea/609926" alt="gitea" width="40" height="40"/></a><br/><sub>Gitea</sub></td>
+    <td align="center"><a href="https://www.jenkins.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/></a><br/><sub>Jenkins</sub></td>
+  </tr>
+</table>
+
+**📊 Observabilidade & Segurança**
+<table>
+  <tr>
+    <td align="center"><a href="https://grafana.com"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/></a><br/><sub>Grafana</sub></td>
+    <td align="center"><a href="https://prometheus.io/"><img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/></a><br/><sub>Prometheus</sub></td>
+    <td align="center"><a href="https://www.zabbix.com/"><img src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg" alt="zabbix" width="40" height="40"/></a><br/><sub>Zabbix</sub></td>
+    <td align="center"><a href="https://wazuh.com/"><img src="https://github.com/wazuh.png" alt="wazuh" width="40" height="40"/></a><br/><sub>Wazuh</sub></td>
+  </tr>
+</table>
+
+**🖥️ Sistemas & Servidores**
+<table>
+  <tr>
+    <td align="center"><a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a><br/><sub>Linux</sub></td>
+    <td align="center"><a href="https://www.centos.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" alt="centos" width="40" height="40"/></a><br/><sub>CentOS</sub></td>
+    <td align="center"><a href="https://httpd.apache.org/"><img src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" alt="apache" width="40" height="40"/></a><br/><sub>Apache</sub></td>
+    <td align="center"><a href="https://www.nginx.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/></a><br/><sub>Nginx</sub></td>
+  </tr>
+</table>
+
+**🗄️ Bancos de Dados**
+<table>
+  <tr>
+    <td align="center"><a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/></a><br/><sub>MySQL</sub></td>
+    <td align="center"><a href="https://mariadb.org/"><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/></a><br/><sub>MariaDB</sub></td>
+    <td align="center"><a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/></a><br/><sub>PostgreSQL</sub></td>
+    <td align="center"><a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/></a><br/><sub>MongoDB</sub></td>
+    <td align="center"><a href="https://www.oracle.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a><br/><sub>Oracle DB</sub></td>
+    <td align="center"><a href="https://www.microsoft.com/sql-server"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sqlserver" width="40" height="40"/></a><br/><sub>SQL Server</sub></td>
+  </tr>
+</table>
+
+**🛠️ Ferramentas**
+<table>
+  <tr>
+    <td align="center"><a href="https://postman.com"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a><br/><sub>Postman</sub></td>
+    <td align="center"><a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a><br/><sub>VS Code</sub></td>
+    <td align="center"><a href="https://ministack.org/"><img src="https://ministack.org/ministack_symbol.svg" alt="ministack" width="40" height="40"/></a><br/><sub>MiniStack</sub></td>
+  </tr>
+</table>
+
+**🤖 AI / LLM**
+<table>
+  <tr>
+    <td align="center"><a href="https://ai.google.dev/"><img src="https://cdn.simpleicons.org/googlegemini/8E75FF" alt="gemini" width="40" height="40"/></a><br/><sub>Gemini</sub></td>
+    <td align="center"><a href="https://claude.ai/"><img src="https://cdn.simpleicons.org/anthropic/D97757" alt="claude" width="40" height="40"/></a><br/><sub>Claude</sub></td>
+    <td align="center"><a href="https://openai.com/"><img src="assets/images/openai.svg" alt="openai" width="40" height="40"/></a><br/><sub>OpenAI</sub></td>
+    <td align="center"><a href="https://huggingface.co/"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" alt="huggingface" width="40" height="40"/></a><br/><sub>Hugging Face</sub></td>
   </tr>
 </table>
 
