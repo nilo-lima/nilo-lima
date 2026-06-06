@@ -174,7 +174,7 @@ Sinta-se à vontade para me chamar para conversar sobre oportunidades, tecnologi
     <p align="center">
       <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nilo-lima&show_icons=true&theme=dracula&include_all_commits=true" />
       <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nilo-lima&layout=compact&theme=dracula" />
-      <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=nilo-lima&theme=dark" alt="nilo-lima" />
+      <img height="160em" src="https://streak-stats.demolab.com/?user=nilo-lima&theme=dracula" alt="nilo-lima" />
     </p>
 </details>
 
