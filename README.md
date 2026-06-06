@@ -36,11 +36,8 @@ Sinta-se à vontade para me chamar para conversar sobre oportunidades, tecnologi
   <a href="https://linkedin.com/in/nilolima" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-    <a href="./assets/markdown/curriculo_devops.md" target="_blank">
+    <a href="./assets/pdfs/CV_Foco_Gestao.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Currículo-607D8B?style=for-the-badge&logo=googledrive&logoColor=white" alt="Currículo">
-  </a>
-  <a href="./assets/markdown/carta_de_apresentacao_devops.md" target="_blank">
-    <img src="https://img.shields.io/badge/Carta%20de%20Apresentação-003B5C?style=for-the-badge&logo=googledocs&logoColor=white" alt="Carta de Apresentação">
   </a>
   <a href="mailto:nilo.lima@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
