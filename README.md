@@ -190,7 +190,7 @@ Sinta-se à vontade para me chamar para conversar sobre oportunidades, tecnologi
     <td align="center"><a href="https://azure.microsoft.com/"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a><br/><sub>Azure</sub></td>
     <td align="center"><a href="https://cloud.google.com"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a><br/><sub>GCP</sub></td>
     <td align="center"><a href="https://www.oracle.com/cloud/"><img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="oci" width="40" height="40"/></a><br/><sub>Oracle Cloud</sub></td>
-    <td align="center"><a href="https://magalu.cloud/"><img src="https://br-se1.magaluobjects.com/site-institucional-prod-strapi-media/logo_svg_2d8ceeca28.svg" alt="magalucloud" width="40" height="40"/></a><br/><sub>Magalu Cloud</sub></td>
+    <td align="center"><a href="https://magalu.cloud/"><img src="assets/images/magalucloud.svg" alt="magalucloud" width="40" height="40"/></a><br/><sub>Magalu Cloud</sub></td>
   </tr>
 </table>
 

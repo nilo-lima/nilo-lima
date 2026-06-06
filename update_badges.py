@@ -189,6 +189,12 @@ def update_readme(outro, credly):
         flags=re.DOTALL,
     )
 
+    new_content = re.sub(
+        r"(<summary> Certificações e Licenças )\(\d+\)( </summary>)",
+        f"\\1({len(all_badges)})\\2",
+        new_content,
+    )
+
     if new_content == content:
         return 0
 
