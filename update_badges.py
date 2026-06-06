@@ -112,7 +112,10 @@ def fetch_outro_badges():
         bid = b.get("id", "")
         ext = b.get("external_badge", {})
         name = ext.get("badge_name", "Badge")
-        img_url = ext.get("image_url", "")
+        img_url = ext.get("image_url", "").replace(
+            "https://images.credly.com/images/",
+            "https://images.credly.com/size/80x80/images/",
+        )
         badge_url = ext.get("badge_url") or f"https://www.credly.com/users/{USER}/badges"
         result.append((bid, name, img_url, badge_url))
 
