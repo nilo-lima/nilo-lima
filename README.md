@@ -292,15 +292,4 @@ Sinta-se à vontade para me chamar para conversar sobre oportunidades, tecnologi
 
 <br />
 
-## 💖 Apoie meu trabalho
-
-Se você gosta dos meus projetos, considere:
-- ⭐ Dar uma estrela nos repositórios.
-- 🐛 Reportar bugs ou melhorias.
-- 🤝 Contribuir com código.
-
-<br />
-
 ---
-
-**💎 Gostou do meu perfil?**  [Me indique para o GitHub Stars](https://stars.github.com/nominate/).
