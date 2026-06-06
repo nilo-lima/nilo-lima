@@ -10,7 +10,7 @@ Hoje foco em arquitetar ambientes modernos com containers, IaC e adoção pragm�
 
 ## 🛠️ Um pouco mais sobre mim:
 
-* 🚀 Atualmente: Focado em projetos de Cloud & DevOps e em busca de novos desafios profissionais.
+* 🚀 Atualmente: Desenvolvendo projetos práticos de infraestrutura cloud, DevOps e IA e em busca de novos desafios profissionais.
   
 * 🎯 Objetivo: Liderar modernizações de plataforma, conectando infraestrutura crítica a resultados de negócio com automação multi-cloud, DevSecOps e IA.
   
