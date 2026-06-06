@@ -228,9 +228,8 @@ Sinta-se à vontade para me chamar para conversar sobre oportunidades, tecnologi
     <td><a href="https://claude.ai/"><img src="https://cdn.simpleicons.org/anthropic/D97757" alt="claude" width="40" height="40"/></a></td>
     <td><a href="https://openai.com/"><img src="assets/images/openai.svg" alt="openai" width="40" height="40"/></a></td>
     <td><a href="https://huggingface.co/"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" alt="huggingface" width="40" height="40"/></a></td>
-    <td><a href="https://wazuh.com/"><img src="https://cdn.simpleicons.org/wazuh/00A9E0" alt="wazuh" width="40" height="40"/></a></td>
-    <td><a href="https://localstack.cloud/"><img src="https://cdn.simpleicons.org/localstack/4A90D9" alt="localstack" width="40" height="40"/></a></td>
-    <td><a href="https://aws.amazon.com/cloudformation/"><img src="https://cdn.simpleicons.org/awscloudformation/FF4F00" alt="cloudformation" width="40" height="40"/></a></td>
+    <td><a href="https://wazuh.com/"><img src="https://github.com/wazuh.png" alt="wazuh" width="40" height="40"/></a></td>
+    <td><a href="https://ministack.org/"><img src="https://ministack.org/ministack_symbol.svg" alt="ministack" width="40" height="40"/></a></td>
   </tr>
 </table>
 
