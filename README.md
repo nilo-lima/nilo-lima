@@ -2,13 +2,11 @@
 <img src="assets/images/banner.png">
 </p>
 
-## 🌐 Saudações! Nilo Lima Jr aqui.
+## 🌐 Nilo Lima Jr
 
-Sou um profissional de TI apaixonado por Cloud Computing, DevOps e Infraestrutura moderna. Meu foco é transformar a forma como as empresas entregam software, utilizando automação e resiliência para gerar valor real ao negócio.
+Com mais de 30 anos de carreira em TI (desde 1994), conecto infraestrutura crítica a resultados de negócio com automação multi-cloud. Especialista em Cloud Computing, DevOps e Governança de Plataformas — atuei do setor financeiro ao industrial, sempre na intersecção entre tecnologia e impacto real.
 
-Com uma base sólida em tecnologia, hoje dedico meus dias a arquitetar soluções que unem agilidade e estabilidade. Tenho focado intensamente na criação de ambientes modernos, utilizando containers e infraestrutura como código (IaC) para construir ecossistemas escaláveis e de alta disponibilidade.
-
-Acredito que o aprendizado contínuo é a única constante na nossa área, por isso estou sempre envolvido em projetos práticos e laboratórios que desafiam o status quo da infraestrutura tradicional.
+Hoje foco em arquitetar ambientes modernos com containers, IaC e adoção pragmática de IA — entregando resiliência e agilidade sem abrir mão de governança.
 
 ## 🛠️ Um pouco mais sobre mim:
 
@@ -21,7 +19,16 @@ Acredito que o aprendizado contínuo é a única constante na nossa área, por i
 * 🌱 Explorando atualmente: GitOps com ArgoCD, FinOps e integração de agentes de IA em pipelines DevOps.
   
 * ⚡ Curiosidade: Não começo meu dia sem um café forte e, entre uma automação e outra, ostento com orgulho o título de churrasqueiro oficial da família.
-  
+
+## 🏢 Experiência Profissional
+
+| Período | Empresa | Papel |
+|---------|---------|-------|
+| 2002–2025 | **Full Gauge Controls** | Gestor de TI — cloud (AWS/Azure), containers, IaC, observabilidade e segurança ISO 27001 |
+| 1999–2002 | **Informa Informática** *(Sicredi)* | Especialista em TI — infraestrutura crítica em ambiente financeiro distribuído |
+| 1998–1999 | **Acesso Informática** | Especialista em TI — implementação de ERP e estruturação de infraestrutura |
+| 1994–1996 | **Banco do Brasil** | Técnico em Informática — operações em ambiente de processamento crítico |
+
 ## 📫 Contato Direto
 
 Sinta-se à vontade para me chamar para conversar sobre oportunidades, tecnologia ou até mesmo para trocar dicas de churrasco! ☕🥩
@@ -221,6 +228,9 @@ Sinta-se à vontade para me chamar para conversar sobre oportunidades, tecnologi
     <td><a href="https://claude.ai/"><img src="https://cdn.simpleicons.org/anthropic/D97757" alt="claude" width="40" height="40"/></a></td>
     <td><a href="https://openai.com/"><img src="assets/images/openai.svg" alt="openai" width="40" height="40"/></a></td>
     <td><a href="https://huggingface.co/"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" alt="huggingface" width="40" height="40"/></a></td>
+    <td><a href="https://wazuh.com/"><img src="https://cdn.simpleicons.org/wazuh/00A9E0" alt="wazuh" width="40" height="40"/></a></td>
+    <td><a href="https://localstack.cloud/"><img src="https://cdn.simpleicons.org/localstack/4A90D9" alt="localstack" width="40" height="40"/></a></td>
+    <td><a href="https://aws.amazon.com/cloudformation/"><img src="https://cdn.simpleicons.org/awscloudformation/FF4F00" alt="cloudformation" width="40" height="40"/></a></td>
   </tr>
 </table>
 
@@ -230,9 +240,12 @@ Sinta-se à vontade para me chamar para conversar sobre oportunidades, tecnologi
 
 | Projetos | Descrição |
 |---------|-------------|
+| 🏗️ **[devops-master-lab](https://github.com/nilo-lima/devops-master-lab)** | Monorepo profissional com projetos end-to-end em IaC, Kubernetes, CI/CD e observabilidade. |
+| ☁️ **[formacao-aws-desafios-conectividade-redes-aws](https://github.com/nilo-lima/formacao-aws-desafios-conectividade-redes-aws)** | Seis desafios práticos de conectividade em redes AWS com IaC modular em Terraform. |
+| 🛠️ **[glpi-docker-stack](https://github.com/nilo-lima/glpi-docker-stack)** | Stack GLPI 11 production-grade com Docker Compose, MariaDB, Redis, Caddy e backup agendado. |
 | 🤖 **[gemini-cli-contexto-framework](https://github.com/nilo-lima/gemini-cli-contexto-framework)** | Framework para automação de infraestrutura utilizando IA e Gemini CLI. |
-| 🏗️ **[lab-infra-linux-enterprise](https://github.com/nilo-lima/lab-infra-linux-enterprise)** | Laboratório completo de infraestrutura Linux Enterprise (DHCP, DNS, etc.). |
-| 🐧 **[debian-devops-lab](https://github.com/nilo-lima/debian-devops-lab)** | Ambiente de laboratório focado em práticas DevOps utilizando Debian. |
+| 🏢 **[lab-infra-linux-enterprise](https://github.com/nilo-lima/lab-infra-linux-enterprise)** | Ecossistema corporativo Linux com Docker, DHCP/DNS, OpenLDAP e monitoramento integrado. |
+| 🐧 **[debian-devops-lab](https://github.com/nilo-lima/debian-devops-lab)** | Laboratório DevOps completo com Debian 12, Vagrant, Terraform, Ansible e Docker. |
 
 <br />
 
