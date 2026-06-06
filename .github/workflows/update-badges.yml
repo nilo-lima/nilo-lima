@@ -26,84 +26,108 @@ jobs:
           import urllib.request
           import json
           import re
-          import threading
-          from playwright.sync_api import sync_playwright
+          from playwright.sync_api import sync_playwright, TimeoutError as PWTimeout
 
           USER = "nilo-lima-jr"
 
-          # ── 1. Outro badges via Playwright (intercept network calls) ──────────
-          outro_badges = []
-          outro_api_data = []
-          lock = threading.Lock()
+          def is_badges_response(r):
+              return "credly.com" in r.url and "badges.json" in r.url and r.status == 200
 
-          def intercept(response):
-              if "credly.com" in response.url and "badges.json" in response.url:
-                  try:
-                      data = response.json()
-                      if isinstance(data.get("data"), list) and data["data"]:
-                          with lock:
-                              outro_api_data.append((response.url, data))
-                  except Exception:
-                      pass
+          # ── 1. Scrape Outro tab via Playwright ────────────────────────────────
+          outro_raw = []  # list of badge dicts from the Outro tab
 
           with sync_playwright() as p:
               browser = p.chromium.launch(
                   headless=True,
-                  args=["--no-sandbox", "--disable-setuid-sandbox", "--disable-dev-shm-usage"]
+                  args=["--no-sandbox", "--disable-setuid-sandbox",
+                        "--disable-dev-shm-usage", "--disable-gpu"]
               )
               context = browser.new_context(
-                  user_agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
-                             "(KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                  user_agent=(
+                      "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
+                      "(KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                  )
               )
               page = context.new_page()
-              page.on("response", intercept)
 
-              # Load profile — triggers API call for default tab (Credly)
-              page.goto(f"https://www.credly.com/users/{USER}", wait_until="load", timeout=60000)
-              page.wait_for_timeout(4000)
+              # Navigate — domcontentloaded fires as soon as HTML is parsed (fast)
+              print("Navigating to Credly profile...")
+              page.goto(
+                  f"https://www.credly.com/users/{USER}",
+                  wait_until="domcontentloaded",
+                  timeout=45000,
+              )
 
-              # Find and click the "Outro" / "Other" tab
-              clicked = False
-              for tab in page.query_selector_all('[role="tab"], button, a'):
-                  text = (tab.inner_text() or "").strip().lower()
-                  if text in ("outro", "other", "external"):
-                      tab.click()
-                      page.wait_for_timeout(3000)
-                      clicked = True
+              # Wait for the initial badges API call (React bootstraps and calls API)
+              try:
+                  page.wait_for_response(is_badges_response, timeout=25000)
+                  print("Initial badges API call received.")
+              except PWTimeout:
+                  print("Warning: initial badges API call not captured in time.")
+
+              # Small pause for page to stabilise
+              page.wait_for_timeout(1500)
+
+              # Find the Outro/Other tab
+              tab_el = None
+              for selector in ['[role="tab"]', "button", "li", "a"]:
+                  for el in page.query_selector_all(selector):
+                      try:
+                          text = (el.inner_text() or "").strip()
+                          if text.lower() in ("outro", "other", "external"):
+                              tab_el = el
+                              print(f"Found Outro tab: '{text}'")
+                              break
+                      except Exception:
+                          pass
+                  if tab_el:
                       break
 
-              if not clicked:
-                  # Fallback: try href-based tab links
-                  for link in page.query_selector_all("a"):
-                      href = link.get_attribute("href") or ""
-                      text = (link.inner_text() or "").strip().lower()
-                      if "outro" in text or "other" in text or "external" in text:
-                          link.click()
-                          page.wait_for_timeout(3000)
-                          clicked = True
-                          break
+              if tab_el:
+                  # expect_response is set up BEFORE the click to avoid race conditions
+                  try:
+                      with page.expect_response(is_badges_response, timeout=20000) as ri:
+                          tab_el.click()
+                      first_page = ri.value.json()
+                      outro_raw.extend(first_page.get("data", []))
+                      meta = first_page.get("metadata", {})
+                      total_pages = meta.get("total_pages", 1)
+                      print(f"Outro tab: page 1/{total_pages}, "
+                            f"total={meta.get('total_count', '?')}")
+
+                      # Fetch remaining Outro pages if any
+                      next_url = meta.get("next_page_url")
+                      p_num = 2
+                      while next_url and p_num <= total_pages:
+                          req = urllib.request.Request(
+                              next_url,
+                              headers={"Accept": "application/json",
+                                       "User-Agent": "Mozilla/5.0"},
+                          )
+                          with urllib.request.urlopen(req) as resp:
+                              pdata = json.loads(resp.read())
+                          outro_raw.extend(pdata.get("data", []))
+                          next_url = pdata.get("metadata", {}).get("next_page_url")
+                          p_num += 1
+
+                  except PWTimeout:
+                      print("Outro tab clicked but no API call captured.")
+              else:
+                  print("Outro tab not found — skipping.")
 
               browser.close()
 
-          # The intercepted calls include both the initial Credly-tab load
-          # and the Outro-tab load after the click.
-          # We want the LAST call (Outro tab), identified by having fewer badges
-          # than the 90-badge Credly set, or by a different URL pattern.
-          # Strategy: collect all intercepted batches and pick the ones NOT
-          # already in the Credly API (identified by badge IDs).
+          print(f"Outro raw badges captured: {len(outro_raw)}")
 
-          print(f"Intercepted {len(outro_api_data)} API calls from the page")
-          for url, data in outro_api_data:
-              count = data.get("metadata", {}).get("total_count", "?")
-              print(f"  {url[:80]} → total_count={count}")
-
-          # ── 2. Credly badges via JSON API ─────────────────────────────────────
+          # ── 2. Credly badges via JSON API (all pages) ─────────────────────────
           credly_badges = []
           credly_ids = set()
           page_num = 1
           while True:
-              url = (f"https://www.credly.com/users/{USER}/badges.json"
-                     f"?page={page_num}&page_size=48&sort=newest")
+              url = (
+                  f"https://www.credly.com/users/{USER}/badges.json"
+                  f"?page={page_num}&page_size=48&sort=newest"
+              )
               req = urllib.request.Request(
                   url, headers={"Accept": "application/json", "User-Agent": "Mozilla/5.0"}
               )
@@ -120,10 +144,9 @@ jobs:
                   img_url = image.get("url", "") if isinstance(image, dict) else str(image)
                   img_url = img_url.replace(
                       "https://images.credly.com/images/",
-                      "https://images.credly.com/size/80x80/images/"
+                      "https://images.credly.com/size/80x80/images/",
                   )
-                  badge_url = f"https://www.credly.com/badges/{bid}"
-                  credly_badges.append((name, img_url, badge_url))
+                  credly_badges.append((name, img_url, f"https://www.credly.com/badges/{bid}"))
               meta = data.get("metadata", {})
               if page_num >= meta.get("total_pages", 1):
                   break
@@ -131,32 +154,38 @@ jobs:
 
           print(f"Credly API: {len(credly_badges)} badges")
 
-          # ── 3. Extract Outro badges (those NOT in Credly API set) ─────────────
-          for url, data in outro_api_data:
-              for b in data.get("data", []):
-                  bid = b.get("id", "")
-                  if bid in credly_ids:
-                      continue  # already in Credly set
-                  name = b.get("badge_template", {}).get("name", "Badge")
-                  image = b.get("badge_template", {}).get("image", {})
-                  img_url = image.get("url", "") if isinstance(image, dict) else str(image)
-                  img_url = img_url.replace(
-                      "https://images.credly.com/images/",
-                      "https://images.credly.com/size/80x80/images/"
-                  )
-                  badge_url = f"https://www.credly.com/badges/{bid}" if bid else f"https://www.credly.com/users/{USER}/badges"
-                  outro_badges.append((name, img_url, badge_url))
+          # ── 3. Build Outro list (exclude IDs already in Credly set) ──────────
+          outro_badges = []
+          seen_outro = set()
+          for b in outro_raw:
+              bid = b.get("id", "")
+              if bid in credly_ids or bid in seen_outro:
+                  continue
+              seen_outro.add(bid)
+              name = b.get("badge_template", {}).get("name", "Badge")
+              image = b.get("badge_template", {}).get("image", {})
+              img_url = image.get("url", "") if isinstance(image, dict) else str(image)
+              img_url = img_url.replace(
+                  "https://images.credly.com/images/",
+                  "https://images.credly.com/size/80x80/images/",
+              )
+              badge_url = (
+                  f"https://www.credly.com/badges/{bid}"
+                  if bid
+                  else f"https://www.credly.com/users/{USER}/badges"
+              )
+              outro_badges.append((name, img_url, badge_url))
 
-          print(f"Outro badges found: {len(outro_badges)}")
+          print(f"Outro badges (unique, not in Credly): {len(outro_badges)}")
 
-          # ── 4. Combine (Outro first) and update README ────────────────────────
-          all_lines = []
-          for name, img, link in (outro_badges + credly_badges):
-              all_lines.append(f"[![{name}]({img})]({link})")
+          # ── 4. Combine (Outro first) and write README ─────────────────────────
+          lines = [
+              f"[![{n}]({i})]({u})"
+              for n, i, u in (outro_badges + credly_badges)
+          ]
+          section = "\n".join(lines)
 
-          section = "\n".join(all_lines)
-
-          with open("README.md", "r") as f:
+          with open("README.md") as f:
               content = f.read()
 
           new_content = re.sub(
@@ -169,7 +198,10 @@ jobs:
           with open("README.md", "w") as f:
               f.write(new_content)
 
-          print(f"README updated: {len(outro_badges)} Outro + {len(credly_badges)} Credly = {len(all_lines)} total")
+          print(
+              f"README updated: {len(outro_badges)} Outro + "
+              f"{len(credly_badges)} Credly = {len(lines)} total"
+          )
           PYEOF
 
       - name: Commit changes
