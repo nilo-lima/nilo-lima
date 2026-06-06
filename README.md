@@ -16,7 +16,7 @@ Hoje foco em arquitetar ambientes modernos com containers, IaC e adoção pragm�
   
 * 💬 Pergunte-me sobre: AWS, Terraform, Docker, Linux e PostgreSQL.
   
-* 🌱 Explorando atualmente: GitOps com ArgoCD, FinOps e integração de agentes de IA em pipelines DevOps.
+* 🌱 Explorando atualmente: DevSecOps, FinOps e integração de agentes de IA em pipelines DevOps.
   
 * ⚡ Curiosidade: Não começo meu dia sem um café forte e, entre uma automação e outra, ostento com orgulho o título de churrasqueiro oficial da família.
 
