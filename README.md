@@ -18,7 +18,7 @@ Acredito que o aprendizado contínuo é a única constante na nossa área, por i
   
 * 💬 Pergunte-me sobre: AWS, Terraform, Docker, Linux e PostgreSQL.
   
-* 🌱 Estudando no momento: Kubernetes, Ansible e aperfeiçoando automações em nuvem.
+* 🌱 Explorando atualmente: GitOps com ArgoCD, FinOps e integração de agentes de IA em pipelines DevOps.
   
 * ⚡ Curiosidade: Não começo meu dia sem um café forte e, entre uma automação e outra, ostento com orgulho o título de churrasqueiro oficial da família.
   
@@ -173,12 +173,6 @@ Sinta-se à vontade para me chamar para conversar sobre oportunidades, tecnologi
 
 <br />
 
-<!--
-## 📊 Estatísticas
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nilo-lima&theme=dark" alt="nilo-lima" /></p>
-
-<br />
--->
 
 <h2> Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> </h2>
 
