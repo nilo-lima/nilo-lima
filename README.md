@@ -43,8 +43,8 @@ Sinta-se à vontade para me chamar para conversar sobre oportunidades, tecnologi
   <a href="https://linkedin.com/in/nilolima" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-    <a href="./assets/pdfs/CV_Foco_Gestao.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Currículo-607D8B?style=for-the-badge&logo=googledrive&logoColor=white" alt="Currículo">
+  <a href="https://nilo-lima.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-222222?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfólio">
   </a>
   <a href="mailto:nilo.lima@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
@@ -54,6 +54,9 @@ Sinta-se à vontade para me chamar para conversar sobre oportunidades, tecnologi
   </a>
   <a href="https://www.credential.net/profile/nilohernandezdelimajunior896171/wallet" target="_blank">
     <img src="https://img.shields.io/badge/Accredible-00B8D9?style=for-the-badge&logoColor=white" alt="Accredible">
+  </a>
+  <a href="./assets/pdfs/CV_Foco_Gestao.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Currículo-607D8B?style=for-the-badge&logo=googledrive&logoColor=white" alt="Currículo">
   </a>
 </p>
   
