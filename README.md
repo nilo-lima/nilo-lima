@@ -63,7 +63,7 @@ Sinta-se à vontade para me chamar para conversar sobre oportunidades, tecnologi
 ## 🏆 Certificações e 📈 Atividades no GitHub 
 
 <details>
-  <summary> Certificações e Licenças (101) </summary>
+  <summary> Certificações e Licenças (102) </summary>
 
 <!--START_SECTION:badges-->
 [![Certified Data Protection Officer (DPO)](https://images.credly.com/size/80x80/images/2924c424-3ac8-441b-a1c9-6f11dd5b33d3/gx1rtzhq_1780579523389_badge_cached_image_20260604-31-c4aziq.png)](https://www.credential.net/50529716-56c5-49eb-8d76-b7ee8d9de55c)
@@ -77,13 +77,14 @@ Sinta-se à vontade para me chamar para conversar sobre oportunidades, tecnologi
 [![Oracle Data Platform 2025 Certified Foundations Associate](https://images.credly.com/size/80x80/images/c746fd67-8c83-490c-9a40-dc001cb4e806/OCI25DCFAV2_cached_image_20251109-31-fpjo8.png)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=1816E4191DD806ACCEC48A9450ADAFC96F602ED2B90B407472D9927509CD987F)
 [![Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate](https://images.credly.com/size/80x80/images/4217175b-3c55-4040-b2cf-ff5d51fda86b/OCI25AICFAV1_cached_image_20251105-32-qcfkm2.png)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=3148046EA5A471A6CD3896A05DA247C7CC4D83FDAF59203E6DBEAC3B899A9434)
 [![Oracle Cloud Infrastructure 2025 Certified Foundations Associate](https://images.credly.com/size/80x80/images/e06b2389-793f-40d5-ae73-2495fe84c6b2/OCI25FNDCFAV1_cached_image_20251102-31-varncb.png)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=964E6F37232BE132EF49BD2B045F642BFF9959A3F7DF7BE968E3D0823444A56B)
+[![Lean Six Sigma Green Belt Certification - LSSGBPC™](https://images.credly.com/size/80x80/images/744d5071-343f-4d31-ab6e-ef006da70312/blob)](https://www.credly.com/badges/b2ade084-fadc-41b9-acbd-ec44b13ff816)
 [![Lean Six Sigma Black Belt Certification - LSSBBPC](https://images.credly.com/size/80x80/images/9fb26df1-7943-4142-81c7-682fc51cb122/blob)](https://www.credly.com/badges/5925214e-a97e-4ee2-b4c1-75d5e779694a)
 [![Lean Six Sigma Yellow Belt Certification - LSSYBPC™](https://images.credly.com/size/80x80/images/329f520c-200d-4544-8fa5-9ba8ccd6ba9d/blob)](https://www.credly.com/badges/4ba382c4-3d8a-4132-967d-d6c4fcfb757a)
 [![AWS Agentic AI Demonstrated](https://images.credly.com/size/80x80/images/6f40bf38-1725-40d8-99a2-f6bb1bafec0e/blob)](https://www.credly.com/badges/f4e98d9e-d74f-4c95-b339-11d5d565d51c)
 [![AWS Incident Response Demonstrated](https://images.credly.com/size/80x80/images/8dd6f516-0dd3-4b5e-aacf-8e86e737a95d/blob)](https://www.credly.com/badges/e807e349-63ab-46fb-ad48-a78dae0f70ad)
 [![AWS Serverless Demonstrated](https://images.credly.com/size/80x80/images/b3885091-25bc-42d0-8989-34cca82f3056/blob)](https://www.credly.com/badges/0b32be3d-ed62-450f-972a-39af3a422b66)
 [![AWS Application Networking Demonstrated](https://images.credly.com/size/80x80/images/ed8cf03b-6269-4265-a65b-68e67e49ce6b/blob)](https://www.credly.com/badges/4813e478-778a-431c-bc28-f492f44643c4)
-[![GenAI Adoption Report 2026: Survey Contributor](https://images.credly.com/size/80x80/images/883d0f48-5473-420b-b950-a1facb01abc4/blob)](https://www.credly.com/badges/2d2cb122-2c32-4c2e-a4d4-949217c5b35e)
+[![GenAI Adoption Report 2026 — Survey Contributor](https://images.credly.com/size/80x80/images/883d0f48-5473-420b-b950-a1facb01abc4/blob)](https://www.credly.com/badges/2d2cb122-2c32-4c2e-a4d4-949217c5b35e)
 [![Gen AI User](https://images.credly.com/size/80x80/images/21b673c0-6464-4302-9449-260bcd010058/blob)](https://www.credly.com/badges/35d45955-834d-4076-b9cd-d57da60efc31)
 [![OPSWAT Introduction to Critical Infrastructure Protection (ICIP)](https://images.credly.com/size/80x80/images/f9f3c533-9b5a-47eb-8a3e-5734663116c0/image.png)](https://www.credly.com/badges/1a84c557-da5b-48a8-af79-5ec6ae51110b)
 [![Cisco Networking Academy Learn-A-Thon 2026](https://images.credly.com/size/80x80/images/7bf55491-f0df-488f-84bf-4d51ada45316/blob)](https://www.credly.com/badges/f42ca5fe-63c8-4d8a-b185-3ab06bfec1a5)
