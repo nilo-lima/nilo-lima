@@ -63,7 +63,7 @@ Sinta-se à vontade para me chamar para conversar sobre oportunidades, tecnologi
 ## 🏆 Certificações e 📈 Atividades no GitHub 
 
 <details>
-  <summary> Certificações e Licenças (102) </summary>
+  <summary> Certificações e Licenças (105) </summary>
 
 <!--START_SECTION:badges-->
 [![Certified Data Protection Officer (DPO)](https://images.credly.com/size/80x80/images/2924c424-3ac8-441b-a1c9-6f11dd5b33d3/gx1rtzhq_1780579523389_badge_cached_image_20260604-31-c4aziq.png)](https://www.credential.net/50529716-56c5-49eb-8d76-b7ee8d9de55c)
@@ -77,6 +77,9 @@ Sinta-se à vontade para me chamar para conversar sobre oportunidades, tecnologi
 [![Oracle Data Platform 2025 Certified Foundations Associate](https://images.credly.com/size/80x80/images/c746fd67-8c83-490c-9a40-dc001cb4e806/OCI25DCFAV2_cached_image_20251109-31-fpjo8.png)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=1816E4191DD806ACCEC48A9450ADAFC96F602ED2B90B407472D9927509CD987F)
 [![Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate](https://images.credly.com/size/80x80/images/4217175b-3c55-4040-b2cf-ff5d51fda86b/OCI25AICFAV1_cached_image_20251105-32-qcfkm2.png)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=3148046EA5A471A6CD3896A05DA247C7CC4D83FDAF59203E6DBEAC3B899A9434)
 [![Oracle Cloud Infrastructure 2025 Certified Foundations Associate](https://images.credly.com/size/80x80/images/e06b2389-793f-40d5-ae73-2495fe84c6b2/OCI25FNDCFAV1_cached_image_20251102-31-varncb.png)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=964E6F37232BE132EF49BD2B045F642BFF9959A3F7DF7BE968E3D0823444A56B)
+[![Ethical Hacker](https://images.credly.com/size/80x80/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png)](https://www.credly.com/badges/3d3863ae-da5b-48bc-bb65-daffa684ffb4)
+[![AWS Educate Getting Started with Storage - Training Badge](https://images.credly.com/size/80x80/images/3b1b42e6-dfc2-492b-90df-8058096cb93d/blob)](https://www.credly.com/badges/f57e98d8-e08f-4d47-a84e-1455054f9eaa)
+[![AWS Educate Introduction to Cloud 101 - Training Badge](https://images.credly.com/size/80x80/images/e51a8579-188d-4363-8ed1-12ad164ef57b/blob)](https://www.credly.com/badges/0da47738-5d1f-481a-94b3-ec651bbf940c)
 [![Lean Six Sigma Green Belt Certification - LSSGBPC™](https://images.credly.com/size/80x80/images/744d5071-343f-4d31-ab6e-ef006da70312/blob)](https://www.credly.com/badges/b2ade084-fadc-41b9-acbd-ec44b13ff816)
 [![Lean Six Sigma Black Belt Certification - LSSBBPC](https://images.credly.com/size/80x80/images/9fb26df1-7943-4142-81c7-682fc51cb122/blob)](https://www.credly.com/badges/5925214e-a97e-4ee2-b4c1-75d5e779694a)
 [![Lean Six Sigma Yellow Belt Certification - LSSYBPC™](https://images.credly.com/size/80x80/images/329f520c-200d-4544-8fa5-9ba8ccd6ba9d/blob)](https://www.credly.com/badges/4ba382c4-3d8a-4132-967d-d6c4fcfb757a)
