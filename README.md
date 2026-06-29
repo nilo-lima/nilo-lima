@@ -63,7 +63,7 @@ Sinta-se à vontade para me chamar para conversar sobre oportunidades, tecnologi
 ## 🏆 Certificações e 📈 Atividades no GitHub 
 
 <details>
-  <summary> Certificações e Licenças (112) </summary>
+  <summary> Certificações e Licenças (113) </summary>
 
 <!--START_SECTION:badges-->
 [![Certified ISO/IEC 27001:2022 Lead Auditor](https://images.credly.com/size/80x80/images/97756c2f-8f6a-4606-b241-4b9c96793022/cuaf7xnk_1782152229121_badge_cached_image_20260622-35-dyt282.png)](https://www.credential.net/b0a47b83-cd8b-4983-a2ed-a14afa810a2c)
@@ -82,6 +82,7 @@ Sinta-se à vontade para me chamar para conversar sobre oportunidades, tecnologi
 [![Oracle Data Platform 2025 Certified Foundations Associate](https://images.credly.com/size/80x80/images/c746fd67-8c83-490c-9a40-dc001cb4e806/OCI25DCFAV2_cached_image_20251109-31-fpjo8.png)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=1816E4191DD806ACCEC48A9450ADAFC96F602ED2B90B407472D9927509CD987F)
 [![Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate](https://images.credly.com/size/80x80/images/4217175b-3c55-4040-b2cf-ff5d51fda86b/OCI25AICFAV1_cached_image_20251105-32-qcfkm2.png)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=3148046EA5A471A6CD3896A05DA247C7CC4D83FDAF59203E6DBEAC3B899A9434)
 [![Oracle Cloud Infrastructure 2025 Certified Foundations Associate](https://images.credly.com/size/80x80/images/e06b2389-793f-40d5-ae73-2495fe84c6b2/OCI25FNDCFAV1_cached_image_20251102-31-varncb.png)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=964E6F37232BE132EF49BD2B045F642BFF9959A3F7DF7BE968E3D0823444A56B)
+[![AWS Educate Getting Started with Networking - Training Badge](https://images.credly.com/size/80x80/images/f5095707-7683-4886-940c-3e8e4a2085ca/blob)](https://www.credly.com/badges/7ba280c8-fc01-40b9-b3ce-9ff4c131c806)
 [![AI Skills Fest 2026](https://images.credly.com/size/80x80/images/082c8d0c-5232-4597-b6c4-6bebcc4f3046/blob)](https://www.credly.com/badges/115059c7-7a17-4ca1-972b-3c3056c0f5b9)
 [![AWS Educate Getting Started with Compute - Training Badge](https://images.credly.com/size/80x80/images/7b08cc0e-064b-407d-b70e-323509c3e474/blob)](https://www.credly.com/badges/0204119f-133c-4a6c-9d12-a51b4e8cc6d6)
 [![Ethical Hacker](https://images.credly.com/size/80x80/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png)](https://www.credly.com/badges/3d3863ae-da5b-48bc-bb65-daffa684ffb4)
