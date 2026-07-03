@@ -63,7 +63,7 @@ Sinta-se à vontade para me chamar para conversar sobre oportunidades, tecnologi
 ## 🏆 Certificações e 📈 Atividades no GitHub 
 
 <details>
-  <summary> Certificações e Licenças (115) </summary>
+  <summary> Certificações e Licenças (116) </summary>
 
 <!--START_SECTION:badges-->
 [![Certified ISO/IEC 27001:2022 Lead Auditor](https://images.credly.com/size/80x80/images/97756c2f-8f6a-4606-b241-4b9c96793022/cuaf7xnk_1782152229121_badge_cached_image_20260622-35-dyt282.png)](https://www.credential.net/b0a47b83-cd8b-4983-a2ed-a14afa810a2c)
@@ -78,6 +78,7 @@ Sinta-se à vontade para me chamar para conversar sobre oportunidades, tecnologi
 [![Information Security Mgmt (ISO/IEC 27001) Foundation](https://images.credly.com/size/80x80/images/699aeeb7-ece5-43f6-956c-f4b135138281/2ccbbo0y_1780579480759_badge_cached_image_20260604-30-6wfj5h.png)](https://www.credential.net/ca123d5a-4de6-4667-a52b-b0865d8490d0)
 [![ISO/IEC 20000 Lead Implementer](https://images.credly.com/size/80x80/images/b3c99780-4fc5-404c-9b70-55e981f780f7/1kwl5dca_1779901358173_badge_cached_image_20260527-32-25jqb9.png)](https://www.credential.net/31627e9c-3e7c-46b7-8390-9a2eac11726b)
 [![ISO/IEC 20000 Foundation](https://images.credly.com/size/80x80/images/3529eaab-739a-4b8b-a24e-5bf2ab898a73/bcowutvs_1779900040944_badge_cached_image_20260527-8-x9d7d.png)](https://www.credential.net/de6bb181-d384-4350-8425-91873f3f207c)
+[![Oracle Cloud Infrastructure Certified Architect Associate](https://images.credly.com/size/80x80/images/908feb6f-0544-45a6-88b4-3e8fa8e56c5c/OCI26CAA_cached_image_20260703-32-doz728.png)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=4F678CE6E47BF6165BAA78AC4689823412A96DFA153213221121697341298FC6)
 [![Agentic AI Certified Foundations Associate](https://images.credly.com/size/80x80/images/38cc65c3-a428-4e18-a7c8-b587231c8085/AAI26OFA_cached_image_20260702-32-hd66gb.png)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=64EFBF3B9B493DD90CBC09E223AFCCC0B5450D571596341423F0EF3A1E031741)
 [![Oracle AI Database Certified Foundations Associate](https://images.credly.com/size/80x80/images/7f9021db-7a06-4957-b546-6cf38620e386/OCI26DCFA_cached_image_20260702-31-9htu5a.png)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=51FDC261224CA663FB94239BA25D73BB79DC5140393A5F860A77FBE8DFA2169E)
 [![Oracle Fusion Cloud Applications ERP Process Essentials Certified - Rel 1](https://images.credly.com/size/80x80/images/fbe853ad-bfbc-4b56-9fda-edc7ae31b2d9/OMBPERPCFA1_cached_image_20260427-31-n5ye9y.png)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=3BAC8D0FA50BDB052310C825A2A8B03F9AF6037E22C95E9E47BB6AA2751EE2B1)
