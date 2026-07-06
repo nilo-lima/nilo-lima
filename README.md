@@ -63,9 +63,16 @@ Sinta-se à vontade para me chamar para conversar sobre oportunidades, tecnologi
 ## 🏆 Certificações e 📈 Atividades no GitHub 
 
 <details>
-  <summary> Certificações e Licenças (116) </summary>
+  <summary> Certificações e Licenças (124) </summary>
 
 <!--START_SECTION:badges-->
+[![Knowledge Badge -  Get Started with Databricks Platform Administration](https://images.credly.com/size/80x80/images/c28e5ee0-efb5-4560-a25d-5bdf8aadbe92/4a0wyalx_1783358495793_badge_cached_image_20260706-33-e627ag.png)](https://www.credential.net/f1bde98a-b269-4ba2-a263-a2fab5cf90e6)
+[![Academy Accreditation - AI Agent Fundamentals](https://images.credly.com/size/80x80/images/092f4164-db3d-498a-96f3-9943641f4a0a/afkwmp1c_1783283059875_badge_cached_image_20260705-29-5xqnzo.png)](https://www.credential.net/88a2d551-a6ff-4ab6-8c24-b4d9666d22f3)
+[![Academy Accreditation - AI Security Fundamentals](https://images.credly.com/size/80x80/images/27e1a2b2-47be-45e2-a07c-fb52b0ad551e/8dzz2qgt_1783296613654_badge_cached_image_20260706-31-uumcnm.png)](https://www.credential.net/b7eb6cc2-e700-4855-8e0a-564783a4b0cb)
+[![Academy Accreditation - Analytics Fundamentals](https://images.credly.com/size/80x80/images/e54a0b07-adfa-4c7d-8844-765e5f8ac6d5/g9q6f17n_1783296627367_badge_cached_image_20260706-32-dw87y5.png)](https://www.credential.net/ed4260ea-1952-40fe-b76b-8f416c3cc394)
+[![Academy Accreditation - AWS Databricks Platform Architect](https://images.credly.com/size/80x80/images/01aa8526-80c6-4f9e-858e-120629225f69/xfjukl6x_1783278399260_badge_cached_image_20260705-29-tlnmsz.png)](https://www.credential.net/e780868e-ac65-4b4a-a03f-8a6b68194c56)
+[![Academy Accreditation - Databricks Fundamentals](https://images.credly.com/size/80x80/images/b4c1ada4-a61b-43c8-94b5-9287f2d09e5c/ddk1qvbj_1783283018347_badge_cached_image_20260705-32-3634f6.png)](https://www.credential.net/b409206b-639d-4381-8278-3c99cf3352b9)
+[![Knowledge Badge - Get Started with Lakehouse Architecture on Databricks](https://images.credly.com/size/80x80/images/a081c8da-43c8-4d37-993c-8992aa850532/5gi0s1ph_1783290528430_badge_cached_image_20260705-31-hy71cy.png)](https://www.credential.net/86b3bdf9-751f-43bc-9199-79c47a7528ca)
 [![Certified ISO/IEC 27001:2022 Lead Auditor](https://images.credly.com/size/80x80/images/97756c2f-8f6a-4606-b241-4b9c96793022/cuaf7xnk_1782152229121_badge_cached_image_20260622-35-dyt282.png)](https://www.credential.net/b0a47b83-cd8b-4983-a2ed-a14afa810a2c)
 [![Information Security Audit (ISO/IEC 27007) ‎Foundation](https://images.credly.com/size/80x80/images/c7f1bce1-ca1c-459a-b32c-439dc4663232/cynwuabv_1782161621952_badge_cached_image_20260622-32-ers39o.png)](https://www.credential.net/12fb26d1-71cb-4fb8-a17c-117dd61de026)
 [![ISO/IEC 27001:2022 and ISO/IEC 27002:2022 Dual Achievement](https://images.credly.com/size/80x80/images/13c37378-2105-40e5-82cf-17dc3f9fe195/d8xkkqaw_1782152266208_badge_cached_image_20260622-30-kty4ql.png)](https://www.credential.net/43f2846e-9084-418d-9e4a-336328a444ec)
@@ -78,6 +85,7 @@ Sinta-se à vontade para me chamar para conversar sobre oportunidades, tecnologi
 [![Information Security Mgmt (ISO/IEC 27001) Foundation](https://images.credly.com/size/80x80/images/699aeeb7-ece5-43f6-956c-f4b135138281/2ccbbo0y_1780579480759_badge_cached_image_20260604-30-6wfj5h.png)](https://www.credential.net/ca123d5a-4de6-4667-a52b-b0865d8490d0)
 [![ISO/IEC 20000 Lead Implementer](https://images.credly.com/size/80x80/images/b3c99780-4fc5-404c-9b70-55e981f780f7/1kwl5dca_1779901358173_badge_cached_image_20260527-32-25jqb9.png)](https://www.credential.net/31627e9c-3e7c-46b7-8390-9a2eac11726b)
 [![ISO/IEC 20000 Foundation](https://images.credly.com/size/80x80/images/3529eaab-739a-4b8b-a24e-5bf2ab898a73/bcowutvs_1779900040944_badge_cached_image_20260527-8-x9d7d.png)](https://www.credential.net/de6bb181-d384-4350-8425-91873f3f207c)
+[![Oracle Cloud Infrastructure for Sunbird Ed Specialty](https://images.credly.com/size/80x80/images/e273a320-7db6-4340-bd79-fd32725f547f/OCISEDS_cached_image_20260706-32-lte5ly.png)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=EAA3C82BF0B21B7DB0EAAE9C3CA7A4D68682C5CFA8B87D0C81C7EE474F0DDE3D)
 [![Oracle Cloud Infrastructure Certified Architect Associate](https://images.credly.com/size/80x80/images/908feb6f-0544-45a6-88b4-3e8fa8e56c5c/OCI26CAA_cached_image_20260703-32-doz728.png)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=4F678CE6E47BF6165BAA78AC4689823412A96DFA153213221121697341298FC6)
 [![Agentic AI Certified Foundations Associate](https://images.credly.com/size/80x80/images/38cc65c3-a428-4e18-a7c8-b587231c8085/AAI26OFA_cached_image_20260702-32-hd66gb.png)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=64EFBF3B9B493DD90CBC09E223AFCCC0B5450D571596341423F0EF3A1E031741)
 [![Oracle AI Database Certified Foundations Associate](https://images.credly.com/size/80x80/images/7f9021db-7a06-4957-b546-6cf38620e386/OCI26DCFA_cached_image_20260702-31-9htu5a.png)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=51FDC261224CA663FB94239BA25D73BB79DC5140393A5F860A77FBE8DFA2169E)
