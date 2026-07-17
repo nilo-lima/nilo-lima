@@ -62,7 +62,7 @@ Sinta-se à vontade para me chamar para conversar sobre oportunidades, tecnologi
 ## 🏆 Certificações e 📈 Atividades no GitHub 
 
 <details>
-  <summary> Certificações e Licenças (132) </summary>
+  <summary> Certificações e Licenças (133) </summary>
 
 <!--START_SECTION:badges-->
 [![Certified Information Security Compliance Officer](https://images.credly.com/size/80x80/images/3ea440cf-18fb-4e50-948f-623546b3f779/jk7lm92j_1783599168858_badge_cached_image_20260709-32-6j7tew.png)](https://www.credential.net/fb8a3ef8-1120-4400-9ac0-a55f18aafd08)
@@ -95,6 +95,7 @@ Sinta-se à vontade para me chamar para conversar sobre oportunidades, tecnologi
 [![Oracle Data Platform 2025 Certified Foundations Associate](https://images.credly.com/size/80x80/images/c746fd67-8c83-490c-9a40-dc001cb4e806/OCI25DCFAV2_cached_image_20251109-31-fpjo8.png)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=1816E4191DD806ACCEC48A9450ADAFC96F602ED2B90B407472D9927509CD987F)
 [![Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate](https://images.credly.com/size/80x80/images/4217175b-3c55-4040-b2cf-ff5d51fda86b/OCI25AICFAV1_cached_image_20251105-32-qcfkm2.png)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=3148046EA5A471A6CD3896A05DA247C7CC4D83FDAF59203E6DBEAC3B899A9434)
 [![Oracle Cloud Infrastructure 2025 Certified Foundations Associate](https://images.credly.com/size/80x80/images/e06b2389-793f-40d5-ae73-2495fe84c6b2/OCI25FNDCFAV1_cached_image_20251102-31-varncb.png)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=964E6F37232BE132EF49BD2B045F642BFF9959A3F7DF7BE968E3D0823444A56B)
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/80x80/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/35db79ff-e378-49f2-aa22-9ea9dc6b786c)
 [![AWS Educate Getting Started with Cloud Ops - Training Badge](https://images.credly.com/size/80x80/images/4251ab91-6d67-47da-801c-855c0bbc6cc3/blob)](https://www.credly.com/badges/4aba2776-b3bf-4a4f-bdc9-01765c38a339)
 [![Networking Academy Learn-A-Thon 2025](https://images.credly.com/size/80x80/images/8bf3e17f-1982-4539-a1f7-ba85c749407a/blob)](https://www.credly.com/badges/121aca34-8aaf-484a-9b0f-e261f6d92a0f)
 [![AWS Educate Getting Started with Networking - Training Badge](https://images.credly.com/size/80x80/images/f5095707-7683-4886-940c-3e8e4a2085ca/blob)](https://www.credly.com/badges/7ba280c8-fc01-40b9-b3ce-9ff4c131c806)
