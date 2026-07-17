@@ -63,9 +63,12 @@ Sinta-se à vontade para me chamar para conversar sobre oportunidades, tecnologi
 ## 🏆 Certificações e 📈 Atividades no GitHub 
 
 <details>
-  <summary> Certificações e Licenças (129) </summary>
+  <summary> Certificações e Licenças (132) </summary>
 
 <!--START_SECTION:badges-->
+[![Certified Information Security Compliance Officer](https://images.credly.com/size/80x80/images/3ea440cf-18fb-4e50-948f-623546b3f779/jk7lm92j_1783599168858_badge_cached_image_20260709-32-6j7tew.png)](https://www.credential.net/fb8a3ef8-1120-4400-9ac0-a55f18aafd08)
+[![Compliance Management (ISO 37301) Foundation](https://images.credly.com/size/80x80/images/eea8da67-1147-4ae2-9ef3-24406a8a0cb4/7pgruynr_1783599200707_badge_cached_image_20260709-32-eg6379.png)](https://www.credential.net/351f8a95-e4c7-49af-9179-82ecff3d6c22)
+[![Compliance Management (ISO 37301) Lead Implementer](https://images.credly.com/size/80x80/images/8c8ae939-23e0-4017-b41f-1c003b7b3ebc/qjmtzkqq_1783599194076_badge_cached_image_20260709-32-cgn9m2.png)](https://www.credential.net/b47e7238-9846-46dd-a037-8663b01e33c6)
 [![Knowledge Badge -  Get Started with Databricks Platform Administration](https://images.credly.com/size/80x80/images/c28e5ee0-efb5-4560-a25d-5bdf8aadbe92/4a0wyalx_1783358495793_badge_cached_image_20260706-33-e627ag.png)](https://www.credential.net/f1bde98a-b269-4ba2-a263-a2fab5cf90e6)
 [![Academy Accreditation - AI Agent Fundamentals](https://images.credly.com/size/80x80/images/092f4164-db3d-498a-96f3-9943641f4a0a/afkwmp1c_1783283059875_badge_cached_image_20260705-29-5xqnzo.png)](https://www.credential.net/88a2d551-a6ff-4ab6-8c24-b4d9666d22f3)
 [![Academy Accreditation - AI Security Fundamentals](https://images.credly.com/size/80x80/images/27e1a2b2-47be-45e2-a07c-fb52b0ad551e/8dzz2qgt_1783296613654_badge_cached_image_20260706-31-uumcnm.png)](https://www.credential.net/b7eb6cc2-e700-4855-8e0a-564783a4b0cb)
@@ -85,9 +88,6 @@ Sinta-se à vontade para me chamar para conversar sobre oportunidades, tecnologi
 [![Information Security Mgmt (ISO/IEC 27001) Foundation](https://images.credly.com/size/80x80/images/699aeeb7-ece5-43f6-956c-f4b135138281/2ccbbo0y_1780579480759_badge_cached_image_20260604-30-6wfj5h.png)](https://www.credential.net/ca123d5a-4de6-4667-a52b-b0865d8490d0)
 [![ISO/IEC 20000 Lead Implementer](https://images.credly.com/size/80x80/images/b3c99780-4fc5-404c-9b70-55e981f780f7/1kwl5dca_1779901358173_badge_cached_image_20260527-32-25jqb9.png)](https://www.credential.net/31627e9c-3e7c-46b7-8390-9a2eac11726b)
 [![ISO/IEC 20000 Foundation](https://images.credly.com/size/80x80/images/3529eaab-739a-4b8b-a24e-5bf2ab898a73/bcowutvs_1779900040944_badge_cached_image_20260527-8-x9d7d.png)](https://www.credential.net/de6bb181-d384-4350-8425-91873f3f207c)
-[![Certified Information Security Compliance Officer](https://images.credly.com/size/80x80/images/3ea440cf-18fb-4e50-948f-623546b3f779/jk7lm92j_1783599168858_badge_cached_image_20260709-32-6j7tew.png)](https://www.credential.net/fb8a3ef8-1120-4400-9ac0-a55f18aafd08)
-[![Compliance Management (ISO 37301) Foundation](https://images.credly.com/size/80x80/images/eea8da67-1147-4ae2-9ef3-24406a8a0cb4/7pgruynr_1783599200707_badge_cached_image_20260709-32-eg6379.png)](https://www.credential.net/351f8a95-e4c7-49af-9179-82ecff3d6c22)
-[![Compliance Management (ISO 37301) Lead Implementer](https://images.credly.com/size/80x80/images/8c8ae939-23e0-4017-b41f-1c003b7b3ebc/qjmtzkqq_1783599194076_badge_cached_image_20260709-32-cgn9m2.png)](https://www.credential.net/b47e7238-9846-46dd-a037-8663b01e33c6)
 [![Oracle Cloud Infrastructure for Sunbird Ed Specialty](https://images.credly.com/size/80x80/images/e273a320-7db6-4340-bd79-fd32725f547f/OCISEDS_cached_image_20260706-32-lte5ly.png)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=EAA3C82BF0B21B7DB0EAAE9C3CA7A4D68682C5CFA8B87D0C81C7EE474F0DDE3D)
 [![Oracle Cloud Infrastructure Certified Architect Associate](https://images.credly.com/size/80x80/images/908feb6f-0544-45a6-88b4-3e8fa8e56c5c/OCI26CAA_cached_image_20260703-32-doz728.png)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=4F678CE6E47BF6165BAA78AC4689823412A96DFA153213221121697341298FC6)
 [![Agentic AI Certified Foundations Associate](https://images.credly.com/size/80x80/images/38cc65c3-a428-4e18-a7c8-b587231c8085/AAI26OFA_cached_image_20260702-32-hd66gb.png)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=64EFBF3B9B493DD90CBC09E223AFCCC0B5450D571596341423F0EF3A1E031741)
@@ -165,7 +165,10 @@ Sinta-se à vontade para me chamar para conversar sobre oportunidades, tecnologi
 [![Astronomer Certification for Apache Airflow 3 Fundamentals](https://images.credly.com/size/80x80/images/b6315b18-8762-40a7-a15b-b97a6dd9c12e/blob)](https://www.credly.com/badges/81bc03e3-cba1-4f6b-9394-3a3bc12308fe)
 [![Fortinet Certified Associate Cybersecurity](https://images.credly.com/size/80x80/images/20082fc1-94af-4773-9df0-28856b566748/image.png)](https://www.credly.com/badges/6f1b7500-f8d9-4533-873e-4413d7b8f4e3)
 [![Fortinet FortiGate 7.4 Operator](https://images.credly.com/size/80x80/images/4b6db74c-f2da-4958-ad21-27288f2dd7f3/image.png)](https://www.credly.com/badges/8afd035e-2bb3-4abe-b2b3-5ebb04597456)
+[![Fortinet NSE 3 Certified in Cybersecurity](https://images.credly.com/size/80x80/images/7ca06297-1543-4ed2-b9fc-7f0af8635700/blob)](https://www.credly.com/badges/1d683b74-29d5-4f50-8816-942e5833929e)
 [![Fortinet Certified Fundamentals Cybersecurity](https://images.credly.com/size/80x80/images/22a0ece5-ff05-4594-8320-25e55e9ae203/image.png)](https://www.credly.com/badges/e7651f6c-0682-47ba-9fbb-ff1276d2145e)
+[![Fortinet NSE 1 Certified in Cybersecurity](https://images.credly.com/size/80x80/images/0dc7965b-8507-4312-9c12-1add6c50fa49/blob)](https://www.credly.com/badges/15ef1b16-b5e3-4e5f-99be-72e6dec112da)
+[![Fortinet NSE 2 Certified in Cybersecurity](https://images.credly.com/size/80x80/images/a30952f3-f354-4233-b02a-690ffe95d190/blob)](https://www.credly.com/badges/e61b3aa2-7207-4b51-8a7a-18210ecbbc51)
 [![Getting Started in Cybersecurity 3.0](https://images.credly.com/size/80x80/images/a27867b1-d64f-4890-b577-89f162015407/blob)](https://www.credly.com/badges/144e1ad9-fd95-40df-95b3-22a961e4729e)
 [![Technical Introduction to Cybersecurity 2.0](https://images.credly.com/size/80x80/images/73ebab75-b4d6-4fa0-b651-8edaf14f286d/blob)](https://www.credly.com/badges/28bd0da9-fbd2-4508-8b99-a586731e1a2c)
 [![Introduction to the Threat Landscape 3.0](https://images.credly.com/size/80x80/images/a06a4e98-21bf-49ab-ad70-c61641f26fc8/blob)](https://www.credly.com/badges/3b52f9fc-bde7-4b10-9ae2-ca2cb63c200b)
