@@ -4,15 +4,13 @@
 
 ## 🌐 Nilo Lima Jr
 
-Com mais de 30 anos de carreira em TI (desde 1994), conecto infraestrutura crítica a resultados de negócio com automação multi-cloud. Especialista em Cloud Computing, DevOps e Governança de Plataformas: atuei do setor financeiro ao industrial, sempre na intersecção entre tecnologia e impacto real.
-
-Hoje foco em arquitetar ambientes modernos com containers, IaC e adoção pragmática de IA: entregando resiliência e agilidade sem abrir mão de governança.
+Profissional de TI com 30 anos de experiência (desde 1994) em ERPs, bancos de dados, infraestrutura corporativa e transformação digital, com forte liderança técnica e operacional. Atuei na implantação de sistemas (Dynamics AX, Senior, OSGT/Thomson Reuters, WK Radar), migração para nuvem, modernização de bancos SQL Server e Oracle, BI (Power BI, DAX, ETL, DW) e conteinerização (Docker), além de virtualização com Hyper-V, administração de ambientes Windows Server e Linux, segurança da informação, continuidade de negócios, gestão de equipes, negociação e definição de OKRs, sempre com foco em impacto positivo e resultados sustentáveis.
 
 ## 🛠️ Um pouco mais sobre mim:
 
-* 🚀 Atualmente: Desenvolvendo projetos práticos de infraestrutura cloud, DevOps e IA e em busca de novos desafios profissionais.
+* 🚀 Atualmente: Atuando como Coordenador de Infraestrutura de TI, com foco em eficiência operacional, redução de custos, projetos estratégicos e inovação.
   
-* 🎯 Objetivo: Liderar modernizações de plataforma, conectando infraestrutura crítica a resultados de negócio com automação multi-cloud, DevSecOps e IA.
+* 🎯 Objetivo: Conectar sustentação, projetos e inovação a resultados concretos de eficiência operacional e redução de custos.
   
 * 💬 Pergunte-me sobre: arquitetura multi-cloud, DevOps, governança de plataformas e integração de IA em operações críticas.
   
@@ -24,8 +22,9 @@ Hoje foco em arquitetar ambientes modernos com containers, IaC e adoção pragm�
 
 | Período | Empresa | Papel |
 |---------|---------|-------|
-| 2002–2025 | **Full Gauge Controls** | Gestor de TI: cloud (AWS/Azure), containers, IaC, observabilidade e segurança ISO 27001 |
-| 1999–2002 | **Informa Informática** *(Sicredi)* | Especialista em TI: infraestrutura crítica em ambiente financeiro distribuído |
+| 2026–atual | **Innova** | Coordenador de Infraestrutura de TI: sustentação, projetos, inovação, cibersegurança, eficiência operacional e redução de custos |
+| 2002–2025 | **Full Gauge Controls** | Gestor de TI: sistemas, sustentação, bancos de dados, cloud, containers, IaC, observabilidade e cibersegurança |
+| 1999–2002 | **Informa Informática** | Especialista em TI: infraestrutura crítica em ambiente financeiro distribuído |
 | 1998–1999 | **Acesso Informática** | Especialista em TI: implementação de ERP e estruturação de infraestrutura |
 | 1994–1996 | **Banco do Brasil** | Técnico em Informática: operações em ambiente de processamento crítico |
 
