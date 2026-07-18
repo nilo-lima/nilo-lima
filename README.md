@@ -2,21 +2,16 @@
 <img src="assets/images/banner.png">
 </p>
 
-## 🌐 Nilo Lima Jr
+## 👋 Sobre mim
 
-Profissional de TI com 30 anos de experiência (desde 1994) em ERPs, bancos de dados, infraestrutura corporativa e transformação digital, com forte liderança técnica e operacional. Atuei na implantação de sistemas (Dynamics AX, Senior, OSGT/Thomson Reuters, WK Radar), migração para nuvem, modernização de bancos SQL Server e Oracle, BI (Power BI, DAX, ETL, DW) e conteinerização (Docker), além de virtualização com Hyper-V, administração de ambientes Windows Server e Linux, segurança da informação, continuidade de negócios, gestão de equipes, negociação e definição de OKRs, sempre com foco em impacto positivo e resultados sustentáveis.
+Sou Nilo Lima Jr, Coordenador de Infraestrutura de TI há 30 anos - de sistemas de missão crítica à Cloud e à IA aplicada, sempre com base em ITIL, Help & Service Desk, eficiência operacional, projetos e inovação.
 
-## 🛠️ Um pouco mais sobre mim:
+Comecei em ambientes de alta exigência (processamento de dados, redes para clientes financeiros) e passei 23 anos como Gestor de TI na Full Gauge Controls, modernizando a área de ponta a ponta: ERPs, bancos de dados, segurança da informação e, nos últimos anos, Cloud (AWS/Azure/GCP/OCI), automação com Terraform e Ansible, containers com Docker e IA aplicada a operações.
 
-* 🚀 Atualmente: Atuando como Coordenador de Infraestrutura de TI, com foco em eficiência operacional, redução de custos, projetos estratégicos e inovação.
-  
-* 🎯 Objetivo: Conectar sustentação, projetos e inovação a resultados concretos de eficiência operacional e redução de custos.
-  
-* 💬 Pergunte-me sobre: arquitetura multi-cloud, DevOps, governança de plataformas e integração de IA em operações críticas.
-  
-* 🌱 Explorando atualmente: DevSecOps, FinOps e integração de agentes de IA em pipelines DevOps.
-  
-* ⚡ Curiosidade: Não começo meu dia sem um café forte e, entre uma automação e outra, ostento com orgulho o título de churrasqueiro oficial da família.
+Boa parte do que está aqui no GitHub nasce de laboratórios reproduzíveis e versionados, onde testo na prática o que estudo.
+
+**Hoje:** Coordenandor de Infraestrutura TI com foco em ITIL, Service Desk, eficiência operacional e redução de custos - aprofundando Cloud, DevOps e IA aplicada.
+**Sempre:** aberto a trocar ideia sobre tecnologia, coordenação de TI ou automação - e, no intervalo, sobre café e churrasco. ☕🥩
 
 ## 🏢 Experiência Profissional
 
