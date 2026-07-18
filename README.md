@@ -23,13 +23,9 @@ Boa parte do que está aqui no GitHub nasce de laboratórios reproduzíveis e ve
 | 1998–1999 | **Acesso Informática** | Especialista em TI: implementação de ERP e estruturação de infraestrutura |
 | 1994–1996 | **Banco do Brasil** | Técnico em Informática: operações em ambiente de processamento crítico |
 
-## 📫 Contato Direto
+## 📫 Contato
 
-Sinta-se à vontade para me chamar para conversar sobre oportunidades, tecnologia ou até mesmo para trocar dicas de churrasco! ☕🥩
-
-* 💼 [Interesse Profissional](https://wa.me/5551999331601?text=Olá%20Nilo%2C%20vi%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20falar%20sobre%20oportunidades.)
-* 🤝 [Networking e DevOps](https://wa.me/5551999331601?text=Fala%20Nilo!%20Vi%20seus%20projetos%20de%20DevOps%20e%20queria%20trocar%20uma%20ideia.)
-* 🥩 [Café e Churrasco](https://wa.me/5551999331601?text=Oi%20Nilo%2C%20vi%20que%20você%20curte%20café%20e%20churrasco%2C%20bora%20conectar%3F)
+💼 [LinkedIn](https://linkedin.com/in/nilolima) · ✉️ [E-mail](mailto:nilo.lima@gmail.com) · 🏆 [Credly](https://www.credly.com/users/nilo-lima-jr/badges)
 
 <br />
 
