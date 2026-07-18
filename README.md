@@ -11,6 +11,7 @@ Comecei em ambientes de alta exigência (processamento de dados, redes para clie
 Boa parte do que está aqui no GitHub nasce de laboratórios reproduzíveis e versionados, onde testo na prática o que estudo.
 
 **Hoje:** Coordenandor de Infraestrutura TI com foco em ITIL, Service Desk, eficiência operacional e redução de custos - aprofundando Cloud, DevOps e IA aplicada.
+
 **Sempre:** aberto a trocar ideia sobre tecnologia, coordenação de TI ou automação - e, no intervalo, sobre café e churrasco. ☕🥩
 
 ## 🏢 Experiência Profissional
@@ -24,8 +25,6 @@ Boa parte do que está aqui no GitHub nasce de laboratórios reproduzíveis e ve
 | 1994–1996 | **Banco do Brasil** | Técnico em Informática: operações em ambiente de processamento crítico |
 
 ## 📫 Contato
-
-💼 [LinkedIn](https://linkedin.com/in/nilolima) · ✉️ [E-mail](mailto:nilo.lima@gmail.com) · 🏆 [Credly](https://www.credly.com/users/nilo-lima-jr/badges)
 
 <br />
 
