@@ -18,7 +18,7 @@ Boa parte do que está aqui no GitHub nasce de laboratórios reproduzíveis e ve
 
 | Período | Empresa | Papel |
 |---------|---------|-------|
-| 2026–atual | **Innova** | Coordenador de Infraestrutura de TI, ITIL, Help & Service Desk, Eficiência Operacional, Redução de Custos, Projetos, Inovação e UX/CX |
+| 2026–atual | **Innova** | Coordenador de Infraestrutura de TI: ITIL, Help & Service Desk, Eficiência Operacional, Redução de Custos, Projetos, Inovação e UX/CX |
 | 2002–2025 | **Full Gauge Controls** | Gestor de TI: sistemas, sustentação, bancos de dados, cloud, containers, IaC, observabilidade e cibersegurança |
 | 1999–2002 | **Informa Informática** | Especialista em TI: infraestrutura crítica em ambiente financeiro distribuído |
 | 1998–1999 | **Acesso Informática** | Especialista em TI: implementação de ERP e estruturação de infraestrutura |
