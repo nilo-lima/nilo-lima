@@ -46,9 +46,6 @@ Vamos trocar uma ideia sobre tecnologia, infraestrutura ou oportunidades? Me enc
   <a href="https://www.credential.net/profile/nilohernandezdelimajunior896171/wallet" target="_blank">
     <img src="https://img.shields.io/badge/Accredible-00B8D9?style=for-the-badge&logoColor=white" alt="Accredible">
   </a>
-  <a href="./assets/pdfs/CV_Foco_Gestao.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Currículo-607D8B?style=for-the-badge&logo=googledrive&logoColor=white" alt="Currículo">
-  </a>
 </p>
   
 ## 🏆 Certificações e 📈 Atividades no GitHub 
