@@ -51,9 +51,13 @@ Vamos trocar uma ideia sobre tecnologia, infraestrutura ou oportunidades? Me enc
 ## 🏆 Certificações e 📈 Atividades no GitHub 
 
 <details>
-  <summary> Certificações e Licenças (136) </summary>
+  <summary> Certificações e Licenças (141) </summary>
 
 <!--START_SECTION:badges-->
+[![Computer Forensics (ISO/IEC 27037) Foundation](https://images.credly.com/size/80x80/images/ff26058f-1359-4a4a-acba-42d5d0c58cbb/pcr09n9k_1785882943597_badge_cached_image_20260804-31-c06iay.png)](https://www.credential.net/e196fbdc-7d8f-4ee8-80a7-4d73c2568e1d)
+[![Cybersecurity (ISO/IEC 27032:2023) Foundation](https://images.credly.com/size/80x80/images/da10a7fd-d2fc-4140-9d1a-8abd5b46ea81/3u1aa0gk_1785883158394_badge_cached_image_20260804-31-t9hb8e.png)](https://www.credential.net/69c3361f-5a7c-4c30-b0c2-3576d8e063ac)
+[![Ethical Hacking and Penetration Testing Foundation](https://images.credly.com/size/80x80/images/37145076-147f-4e47-8b68-b656e8579cc3/bjrkaw8y_1785882746785_badge_cached_image_20260804-31-dr0e4u.png)](https://www.credential.net/789e3078-bd88-4a56-8d05-b730b68d4ae9)
+[![NIST Cybersecurity Framework (CSF) 2.0 Foundation](https://images.credly.com/size/80x80/images/f7d63221-7a64-4afa-a2ed-2911c145a46b/o2o0adas_1785836314595_badge_cached_image_20260804-32-v053mp.png)](https://www.credential.net/0cc9f1c9-c494-456f-a964-bb2ceeeaa7b7)
 [![Certified Information Security Compliance Officer](https://images.credly.com/size/80x80/images/3ea440cf-18fb-4e50-948f-623546b3f779/jk7lm92j_1783599168858_badge_cached_image_20260709-32-6j7tew.png)](https://www.credential.net/fb8a3ef8-1120-4400-9ac0-a55f18aafd08)
 [![Compliance Management (ISO 37301) Foundation](https://images.credly.com/size/80x80/images/eea8da67-1147-4ae2-9ef3-24406a8a0cb4/7pgruynr_1783599200707_badge_cached_image_20260709-32-eg6379.png)](https://www.credential.net/351f8a95-e4c7-49af-9179-82ecff3d6c22)
 [![Compliance Management (ISO 37301) Lead Implementer](https://images.credly.com/size/80x80/images/8c8ae939-23e0-4017-b41f-1c003b7b3ebc/qjmtzkqq_1783599194076_badge_cached_image_20260709-32-cgn9m2.png)](https://www.credential.net/b47e7238-9846-46dd-a037-8663b01e33c6)
@@ -76,6 +80,7 @@ Vamos trocar uma ideia sobre tecnologia, infraestrutura ou oportunidades? Me enc
 [![Information Security Mgmt (ISO/IEC 27001) Foundation](https://images.credly.com/size/80x80/images/699aeeb7-ece5-43f6-956c-f4b135138281/2ccbbo0y_1780579480759_badge_cached_image_20260604-30-6wfj5h.png)](https://www.credential.net/ca123d5a-4de6-4667-a52b-b0865d8490d0)
 [![ISO/IEC 20000 Lead Implementer](https://images.credly.com/size/80x80/images/b3c99780-4fc5-404c-9b70-55e981f780f7/1kwl5dca_1779901358173_badge_cached_image_20260527-32-25jqb9.png)](https://www.credential.net/31627e9c-3e7c-46b7-8390-9a2eac11726b)
 [![ISO/IEC 20000 Foundation](https://images.credly.com/size/80x80/images/3529eaab-739a-4b8b-a24e-5bf2ab898a73/bcowutvs_1779900040944_badge_cached_image_20260527-8-x9d7d.png)](https://www.credential.net/de6bb181-d384-4350-8425-91873f3f207c)
+[![Certified Cybersecurity Analyst (CCSA)](https://images.credly.com/size/80x80/images/847200c5-4707-40b8-bc56-0f8feb59b3ff/ulhst8vu_1785836544127_badge_cached_image_20260804-31-e9s0tg.png)](https://www.credential.net/4b89d4a7-063e-493c-a4ed-63916b34557f)
 [![Oracle Cloud Infrastructure for Sunbird Ed Specialty](https://images.credly.com/size/80x80/images/e273a320-7db6-4340-bd79-fd32725f547f/OCISEDS_cached_image_20260706-32-lte5ly.png)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=EAA3C82BF0B21B7DB0EAAE9C3CA7A4D68682C5CFA8B87D0C81C7EE474F0DDE3D)
 [![Oracle Cloud Infrastructure Certified Architect Associate](https://images.credly.com/size/80x80/images/908feb6f-0544-45a6-88b4-3e8fa8e56c5c/OCI26CAA_cached_image_20260703-32-doz728.png)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=4F678CE6E47BF6165BAA78AC4689823412A96DFA153213221121697341298FC6)
 [![Agentic AI Certified Foundations Associate](https://images.credly.com/size/80x80/images/38cc65c3-a428-4e18-a7c8-b587231c8085/AAI26OFA_cached_image_20260702-32-hd66gb.png)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=64EFBF3B9B493DD90CBC09E223AFCCC0B5450D571596341423F0EF3A1E031741)
@@ -149,7 +154,6 @@ Vamos trocar uma ideia sobre tecnologia, infraestrutura ou oportunidades? Me enc
 [![Service Desk Leader Professional Certification - SDLPC™](https://images.credly.com/size/80x80/images/204fa726-b6f3-4521-afa9-68b39f51fc22/blob)](https://www.credly.com/badges/a6c7ee10-f2fa-45e5-abca-04752b6afea4)
 [![Agile HR Certified Professional](https://images.credly.com/size/80x80/images/b9cc6190-d456-4f2c-94a5-3b94d3fd998c/blob)](https://www.credly.com/badges/e1b69c55-b17b-49a5-8153-4dfd8993443a)
 [![Data Storytelling Professional Certification - DSTPC](https://images.credly.com/size/80x80/images/921b8bf2-01da-4277-96c6-41632874b7ad/blob)](https://www.credly.com/badges/0245053a-a517-4cf1-af3d-c0156345b705)
-[![Kanban Essentials Professional Certification - KEPC](https://images.credly.com/size/80x80/images/172eb84a-fa3b-4199-b1c7-336578958c1a/blob)](https://www.credly.com/badges/8cceacee-7b2c-4dd1-8e2d-3d479eb18402)
 [![Inventory Management Analyst Professional Certification - IMAPC](https://images.credly.com/size/80x80/images/0f870a86-d23e-4e93-a8e6-2211dc9c9bfd/blob)](https://www.credly.com/badges/f7849290-7d61-43eb-af1d-7f27279edabe)
 [![Scrum Master Professional Certification - SMPC®](https://images.credly.com/size/80x80/images/2e50ac9e-7cf7-482d-9c84-838acfa651c0/blob)](https://www.credly.com/badges/50d8aded-6e62-44ac-8f84-47781b444b57)
 [![Scrum Product Owner Professional Certification - SPOPC®](https://images.credly.com/size/80x80/images/9107bc8e-23ea-4717-af25-485d27b72f66/blob)](https://www.credly.com/badges/68e0aec6-cd4c-4451-8ef7-55370d7df3ac)
@@ -188,6 +192,7 @@ Vamos trocar uma ideia sobre tecnologia, infraestrutura ou oportunidades? Me enc
 [![Prompt Engineering Foundation Professional Certification - CPEFPC™](https://images.credly.com/size/80x80/images/3f3d2763-a451-46cd-9476-51b3d3e7d1f3/blob)](https://www.credly.com/badges/4e5c93ee-f43d-4bdf-a6ee-4ce85bfcbf0b)
 [![Remote Work Professional Certification - RWPC™](https://images.credly.com/size/80x80/images/df29b119-1643-44db-8397-82aa4eea8ade/blob)](https://www.credly.com/badges/b86b7fd3-3c9a-4804-aa72-b95c31b061fa)
 [![Scrum Foundation Professional Certification - SFPC™](https://images.credly.com/size/80x80/images/b1bc1abc-c04c-4b80-b3b8-eb13f521eb60/blob)](https://www.credly.com/badges/f4992507-8bee-486f-bc69-7d1aae19fd93)
+[![Kanban Essentials Professional Certification - KEPC](https://images.credly.com/size/80x80/images/172eb84a-fa3b-4199-b1c7-336578958c1a/blob)](https://www.credly.com/badges/8cceacee-7b2c-4dd1-8e2d-3d479eb18402)
 [![Lean Leadership Professional Certification (LLPC)](https://images.credly.com/size/80x80/images/16b72782-fb9a-47c9-9c4d-39901b9535cb/blob)](https://www.credly.com/badges/1e5d5660-367f-464d-beaa-8ef1370c9024)
 [![Certiprof Growth Players Summit Attendee](https://images.credly.com/size/80x80/images/eee28d36-fd09-4a07-8f24-b584c56b9a9d/blob)](https://www.credly.com/badges/341ee929-6334-4af0-9248-8f518bf5309c)
 <!--END_SECTION:badges-->
