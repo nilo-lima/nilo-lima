@@ -6,7 +6,7 @@
 
 Sou Nilo Lima Jr, Coordenador de Infraestrutura de TI há 30 anos - de sistemas de missão crítica à Cloud e à IA aplicada, sempre com base em ITIL, Help & Service Desk, eficiência operacional, projetos e inovação.
 
-Comecei em ambientes de alta exigência (processamento de dados, redes para clientes financeiros) e passei 23 anos como Gestor de TI na Full Gauge Controls, modernizando a área de ponta a ponta: ERPs, bancos de dados, segurança da informação e, nos últimos anos, Cloud (AWS/Azure/GCP/OCI), automação com Terraform e Ansible, containers com Docker e IA aplicada a operações.
+Comecei em ambientes de alta exigência (processamento de dados, redes para clientes financeiros) e passei 22 anos como Gestor de TI, modernizando a área de ponta a ponta: ERPs, bancos de dados, segurança da informação e, nos últimos anos, Cloud (AWS/Azure/GCP/OCI), automação com Terraform e Ansible, containers com Docker e IA aplicada a operações.
 
 Boa parte do que está aqui no GitHub nasce de laboratórios reproduzíveis e versionados, onde testo na prática o que estudo.
 
