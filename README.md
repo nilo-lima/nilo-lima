@@ -51,9 +51,10 @@ Vamos trocar uma ideia sobre tecnologia, infraestrutura ou oportunidades? Me enc
 ## 🏆 Certificações e 📈 Atividades no GitHub 
 
 <details>
-  <summary> Certificações e Licenças (141) </summary>
+  <summary> Certificações e Licenças (143) </summary>
 
 <!--START_SECTION:badges-->
+[![Certified Cybersecurity Analyst (CCSA)](https://images.credly.com/size/80x80/images/847200c5-4707-40b8-bc56-0f8feb59b3ff/ulhst8vu_1785836544127_badge_cached_image_20260804-31-e9s0tg.png)](https://www.credential.net/4b89d4a7-063e-493c-a4ed-63916b34557f)
 [![Computer Forensics (ISO/IEC 27037) Foundation](https://images.credly.com/size/80x80/images/ff26058f-1359-4a4a-acba-42d5d0c58cbb/pcr09n9k_1785882943597_badge_cached_image_20260804-31-c06iay.png)](https://www.credential.net/e196fbdc-7d8f-4ee8-80a7-4d73c2568e1d)
 [![Cybersecurity (ISO/IEC 27032:2023) Foundation](https://images.credly.com/size/80x80/images/da10a7fd-d2fc-4140-9d1a-8abd5b46ea81/3u1aa0gk_1785883158394_badge_cached_image_20260804-31-t9hb8e.png)](https://www.credential.net/69c3361f-5a7c-4c30-b0c2-3576d8e063ac)
 [![Ethical Hacking and Penetration Testing Foundation](https://images.credly.com/size/80x80/images/37145076-147f-4e47-8b68-b656e8579cc3/bjrkaw8y_1785882746785_badge_cached_image_20260804-31-dr0e4u.png)](https://www.credential.net/789e3078-bd88-4a56-8d05-b730b68d4ae9)
@@ -80,7 +81,7 @@ Vamos trocar uma ideia sobre tecnologia, infraestrutura ou oportunidades? Me enc
 [![Information Security Mgmt (ISO/IEC 27001) Foundation](https://images.credly.com/size/80x80/images/699aeeb7-ece5-43f6-956c-f4b135138281/2ccbbo0y_1780579480759_badge_cached_image_20260604-30-6wfj5h.png)](https://www.credential.net/ca123d5a-4de6-4667-a52b-b0865d8490d0)
 [![ISO/IEC 20000 Lead Implementer](https://images.credly.com/size/80x80/images/b3c99780-4fc5-404c-9b70-55e981f780f7/1kwl5dca_1779901358173_badge_cached_image_20260527-32-25jqb9.png)](https://www.credential.net/31627e9c-3e7c-46b7-8390-9a2eac11726b)
 [![ISO/IEC 20000 Foundation](https://images.credly.com/size/80x80/images/3529eaab-739a-4b8b-a24e-5bf2ab898a73/bcowutvs_1779900040944_badge_cached_image_20260527-8-x9d7d.png)](https://www.credential.net/de6bb181-d384-4350-8425-91873f3f207c)
-[![Certified Cybersecurity Analyst (CCSA)](https://images.credly.com/size/80x80/images/847200c5-4707-40b8-bc56-0f8feb59b3ff/ulhst8vu_1785836544127_badge_cached_image_20260804-31-e9s0tg.png)](https://www.credential.net/4b89d4a7-063e-493c-a4ed-63916b34557f)
+[![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/80x80/images/e3779077-699b-4e47-857a-68a2094bb378/converted20260824-8-4qdys8.png)](https://learn.microsoft.com/api/credentials/share/pt-br/NiloLima-9821/AE01929A662BED53?sharingId=A2C90E15FB28B792)
 [![Oracle Cloud Infrastructure for Sunbird Ed Specialty](https://images.credly.com/size/80x80/images/e273a320-7db6-4340-bd79-fd32725f547f/OCISEDS_cached_image_20260706-32-lte5ly.png)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=EAA3C82BF0B21B7DB0EAAE9C3CA7A4D68682C5CFA8B87D0C81C7EE474F0DDE3D)
 [![Oracle Cloud Infrastructure Certified Architect Associate](https://images.credly.com/size/80x80/images/908feb6f-0544-45a6-88b4-3e8fa8e56c5c/OCI26CAA_cached_image_20260703-32-doz728.png)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=4F678CE6E47BF6165BAA78AC4689823412A96DFA153213221121697341298FC6)
 [![Agentic AI Certified Foundations Associate](https://images.credly.com/size/80x80/images/38cc65c3-a428-4e18-a7c8-b587231c8085/AAI26OFA_cached_image_20260702-32-hd66gb.png)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=64EFBF3B9B493DD90CBC09E223AFCCC0B5450D571596341423F0EF3A1E031741)
@@ -89,6 +90,7 @@ Vamos trocar uma ideia sobre tecnologia, infraestrutura ou oportunidades? Me enc
 [![Oracle Data Platform 2025 Certified Foundations Associate](https://images.credly.com/size/80x80/images/c746fd67-8c83-490c-9a40-dc001cb4e806/OCI25DCFAV2_cached_image_20251109-31-fpjo8.png)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=1816E4191DD806ACCEC48A9450ADAFC96F602ED2B90B407472D9927509CD987F)
 [![Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate](https://images.credly.com/size/80x80/images/4217175b-3c55-4040-b2cf-ff5d51fda86b/OCI25AICFAV1_cached_image_20251105-32-qcfkm2.png)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=3148046EA5A471A6CD3896A05DA247C7CC4D83FDAF59203E6DBEAC3B899A9434)
 [![Oracle Cloud Infrastructure 2025 Certified Foundations Associate](https://images.credly.com/size/80x80/images/e06b2389-793f-40d5-ae73-2495fe84c6b2/OCI25FNDCFAV1_cached_image_20251102-31-varncb.png)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=964E6F37232BE132EF49BD2B045F642BFF9959A3F7DF7BE968E3D0823444A56B)
+[![CCNA: Introduction to Networks](https://images.credly.com/size/80x80/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png)](https://www.credly.com/badges/333930b7-eb1d-473b-8893-243796c08025)
 [![AWS Educate Getting Started with Databases - Training Badge](https://images.credly.com/size/80x80/images/a08cf90b-9838-4f6c-82bd-8db85fb89dd5/blob)](https://www.credly.com/badges/5fa0a483-ea2a-4fe8-8ced-beeb58adbabe)
 [![AWS Educate Getting Started with Security - Training Badge](https://images.credly.com/size/80x80/images/fc6fa322-80f4-45a5-9def-91e9bcfde837/blob)](https://www.credly.com/badges/b4b77543-6482-4c24-b371-1700a9891938)
 [![AWS Educate Getting Started with Serverless - Training Badge](https://images.credly.com/size/80x80/images/25108813-2dd7-45f7-8158-65689b8526b5/blob)](https://www.credly.com/badges/ad192ab5-b11c-4ba8-9eed-482e6f0275b1)
