@@ -18,10 +18,31 @@ Depois de rodar:
 
 import re
 import json
+import html
+import http.client
 import urllib.request
+from urllib.parse import urlparse
 
 USER = "nilo-lima-jr"
 README = "README.md"
+
+
+def has_cached_thumbnail(img_url):
+    """
+    Verifica se a URL /size/80x80/... já tem thumbnail gerado pelo Credly.
+    Badges muito recentes ainda não têm o cache pronto: a URL redireciona
+    (302) para a imagem original em tamanho real, o que deixa a badge
+    enorme no README. Nesse caso usamos <img width/height> como fallback.
+    """
+    try:
+        parsed = urlparse(img_url)
+        conn = http.client.HTTPSConnection(parsed.netloc, timeout=10)
+        conn.request("HEAD", parsed.path, headers={"User-Agent": "Mozilla/5.0"})
+        resp = conn.getresponse()
+        conn.close()
+        return resp.status == 200
+    except Exception:
+        return True  # na dúvida, não altera o comportamento padrão
 
 
 # ── Grupo Outro ───────────────────────────────────────────────────────────────
@@ -176,7 +197,16 @@ def update_readme(outro, credly):
     outro_filtered = [(bid, n, i, u) for bid, n, i, u in outro if bid not in credly_ids]
 
     all_badges = outro_filtered + credly
-    lines = [f"[![{n}]({i})]({u})" for _, n, i, u in all_badges]
+
+    lines = []
+    for _, n, i, u in all_badges:
+        if has_cached_thumbnail(i):
+            lines.append(f"[![{n}]({i})]({u})")
+        else:
+            # Sem thumbnail gerado ainda: força o tamanho via <img> para
+            # não renderizar a imagem original (geralmente bem maior).
+            alt = html.escape(n, quote=True)
+            lines.append(f'[<img src="{i}" width="80" height="80" alt="{alt}">]({u})')
     section = "\n".join(lines)
 
     with open(README) as f:
