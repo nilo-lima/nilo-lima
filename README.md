@@ -51,7 +51,7 @@ Vamos trocar uma ideia sobre tecnologia, infraestrutura ou oportunidades? Me enc
 ## 🏆 Certificações e 📈 Atividades no GitHub 
 
 <details>
-  <summary> Certificações e Licenças (153) </summary>
+  <summary> Certificações e Licenças (155) </summary>
 
 <!--START_SECTION:badges-->
 [<img src="https://images.credly.com/size/80x80/images/21ad2155-5b38-422e-b85a-8f86abb12cb2/master_cached_image_20261106-31-elbxz2.png" width="80" height="80" alt="Saviynt Identity Security for AI Age (ISAA)">](https://www.credential.net/78e825c2-5a59-4a43-8f45-064a075b4285)
@@ -90,6 +90,8 @@ Vamos trocar uma ideia sobre tecnologia, infraestrutura ou oportunidades? Me enc
 [<img src="https://images.credly.com/size/80x80/images/699aeeb7-ece5-43f6-956c-f4b135138281/2ccbbo0y_1780579480759_badge_cached_image_20260604-30-6wfj5h.png" width="80" height="80" alt="Information Security Mgmt (ISO/IEC 27001) Foundation">](https://www.credential.net/ca123d5a-4de6-4667-a52b-b0865d8490d0)
 [<img src="https://images.credly.com/size/80x80/images/b3c99780-4fc5-404c-9b70-55e981f780f7/1kwl5dca_1779901358173_badge_cached_image_20260527-32-25jqb9.png" width="80" height="80" alt="ISO/IEC 20000 Lead Implementer">](https://www.credential.net/31627e9c-3e7c-46b7-8390-9a2eac11726b)
 [<img src="https://images.credly.com/size/80x80/images/3529eaab-739a-4b8b-a24e-5bf2ab898a73/bcowutvs_1779900040944_badge_cached_image_20260527-8-x9d7d.png" width="80" height="80" alt="ISO/IEC 20000 Foundation">](https://www.credential.net/de6bb181-d384-4350-8425-91873f3f207c)
+[<img src="https://images.credly.com/size/80x80/images/7bd364a2-9285-42fe-8d2f-b561a7d1485e/ODCOFA_cached_image_20261108-33-ca3gqs.png" width="80" height="80" alt="Oracle Data Center Operations Certified Foundations Associate">](https://catalog-education.oracle.com/pls/certview/sharebadge?id=C939E117865B8B6295A52AFFAAB4138205967A2B66F347ED3C07D39044981FF1)
+[<img src="https://images.credly.com/size/80x80/images/1f630101-3c34-4bee-845b-e4e8e272aa4e/OMC26CFA_cached_image_20261108-33-y5iq75.png" width="80" height="80" alt="Oracle Multicloud Certified Foundations Associate">](https://catalog-education.oracle.com/pls/certview/sharebadge?id=5374DB1C982D35B20C41507E08CC235D4986ABB79305F0FF9EDC7FCAD8B0B284)
 [<img src="https://images.credly.com/size/80x80/images/e3779077-699b-4e47-857a-68a2094bb378/converted20260824-8-4qdys8.png" width="80" height="80" alt="Microsoft Certified: Azure Fundamentals">](https://learn.microsoft.com/api/credentials/share/pt-br/NiloLima-9821/AE01929A662BED53?sharingId=A2C90E15FB28B792)
 [<img src="https://images.credly.com/size/80x80/images/e273a320-7db6-4340-bd79-fd32725f547f/OCISEDS_cached_image_20260706-32-lte5ly.png" width="80" height="80" alt="Oracle Cloud Infrastructure for Sunbird Ed Specialty">](https://catalog-education.oracle.com/pls/certview/sharebadge?id=EAA3C82BF0B21B7DB0EAAE9C3CA7A4D68682C5CFA8B87D0C81C7EE474F0DDE3D)
 [<img src="https://images.credly.com/size/80x80/images/908feb6f-0544-45a6-88b4-3e8fa8e56c5c/OCI26CAA_cached_image_20260703-32-doz728.png" width="80" height="80" alt="Oracle Cloud Infrastructure Certified Architect Associate">](https://catalog-education.oracle.com/pls/certview/sharebadge?id=4F678CE6E47BF6165BAA78AC4689823412A96DFA153213221121697341298FC6)
