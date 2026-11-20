@@ -51,9 +51,10 @@ Vamos trocar uma ideia sobre tecnologia, infraestrutura ou oportunidades? Me enc
 ## 🏆 Certificações e 📈 Atividades no GitHub 
 
 <details>
-  <summary> Certificações e Licenças (155) </summary>
+  <summary> Certificações e Licenças (156) </summary>
 
 <!--START_SECTION:badges-->
+[<img src="assets/images/badges/magalu-cloud-fundamentos.png" width="80" height="80" alt="Magalu Cloud Fundamentos">](https://academy.magalu.cloud/verificar-certificado/2371cae712577164135118a0873e49f5)
 [<img src="https://images.credly.com/size/80x80/images/21ad2155-5b38-422e-b85a-8f86abb12cb2/master_cached_image_20261106-31-elbxz2.png" width="80" height="80" alt="Saviynt Identity Security for AI Age (ISAA)">](https://www.credential.net/78e825c2-5a59-4a43-8f45-064a075b4285)
 [<img src="https://images.credly.com/size/80x80/images/cb0ef40c-a57b-45ff-91bd-610a4ad0246e/master_cached_image_20261106-31-tp18m3.png" width="80" height="80" alt="Certified Information Security Officer (CISO)">](https://www.credential.net/34e32955-672d-4cfc-a3e6-a225bc969157)
 [<img src="https://images.credly.com/size/80x80/images/443a609e-7506-4a4a-9134-87e17dd3e5b8/master_cached_image_20261106-31-qbyq4r.png" width="80" height="80" alt="Certified Security Operations Center (SOC) Analyst">](https://www.credential.net/822c090d-9585-4596-ba80-005d7692a6bb)

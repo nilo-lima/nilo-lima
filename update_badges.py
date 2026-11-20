@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """
 Atualiza as badges do Credly no README.md.
-Busca badges dos grupos "Outro" (via Playwright) e "Credly" (via API).
+Busca badges dos grupos "Outro" (via Playwright) e "Credly" (via API),
+e inclui as certificações manuais de MANUAL_BADGES (sem badge no Credly).
 
 Uso:
     python3 update_badges.py
@@ -23,6 +24,18 @@ import urllib.request
 
 USER = "nilo-lima-jr"
 README = "README.md"
+
+# Certificações sem badge no Credly/Accredible.
+# Formato: (id, nome, caminho_ou_url_da_imagem, url_de_verificacao)
+# Ficam no topo da lista; adicione as mais recentes no início.
+MANUAL_BADGES = [
+    (
+        "magalu-cloud-fundamentos",
+        "Magalu Cloud Fundamentos",
+        "assets/images/badges/magalu-cloud-fundamentos.png",
+        "https://academy.magalu.cloud/verificar-certificado/2371cae712577164135118a0873e49f5",
+    ),
+]
 
 
 # ── Grupo Outro ───────────────────────────────────────────────────────────────
@@ -176,7 +189,7 @@ def update_readme(outro, credly):
     # Remove do Outro qualquer badge que também esteja no Credly
     outro_filtered = [(bid, n, i, u) for bid, n, i, u in outro if bid not in credly_ids]
 
-    all_badges = outro_filtered + credly
+    all_badges = MANUAL_BADGES + outro_filtered + credly
 
     lines = []
     for _, n, i, u in all_badges:
@@ -227,7 +240,10 @@ if __name__ == "__main__":
     total = update_readme(outro, credly)
 
     if total:
-        print(f"  README atualizado: {len(outro)} Outro + {len(credly)} Credly = {total} badges\n")
+        print(
+            f"  README atualizado: {len(MANUAL_BADGES)} Manual + {len(outro)} Outro + "
+            f"{len(credly)} Credly = {total} badges\n"
+        )
         print("Próximos passos:")
         print("  git add README.md")
         print('  git commit -m "chore: atualiza badges"')
