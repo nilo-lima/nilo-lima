@@ -51,7 +51,7 @@ Vamos trocar uma ideia sobre tecnologia, infraestrutura ou oportunidades? Me enc
 ## 🏆 Certificações e 📈 Atividades no GitHub 
 
 <details>
-  <summary> Certificações e Licenças (159) </summary>
+  <summary> Certificações e Licenças (160) </summary>
 
 <!--START_SECTION:badges-->
 [<img src="assets/images/badges/magalu-cloud-fundamentos.png" width="80" height="80" alt="Magalu Cloud Fundamentos">](https://academy.magalu.cloud/verificar-certificado/2371cae712577164135118a0873e49f5)
@@ -93,6 +93,7 @@ Vamos trocar uma ideia sobre tecnologia, infraestrutura ou oportunidades? Me enc
 [<img src="https://images.credly.com/size/80x80/images/3529eaab-739a-4b8b-a24e-5bf2ab898a73/bcowutvs_1779900040944_badge_cached_image_20260527-8-x9d7d.png" width="80" height="80" alt="ISO/IEC 20000 Foundation">](https://www.credential.net/de6bb181-d384-4350-8425-91873f3f207c)
 [<img src="https://images.credly.com/size/80x80/images/23f4bbd0-8185-4eac-9ba4-f99e7b9539c8/master_cached_image_20261128-31-z1nf9.png" width="80" height="80" alt="AI Fundamentals">](https://www.credential.net/3845c68c-4a63-4a67-93d9-9ce5fdcbc04a)
 [<img src="https://images.credly.com/size/80x80/images/f46fe14e-712a-4a27-9dc2-e90cfd387d10/master_cached_image_20261128-34-ewu0wf.png" width="80" height="80" alt="APM Practitioner - APM Foundations">](https://www.credential.net/c64146f1-f075-4dec-894e-eebb57c5f32e)
+[<img src="https://images.credly.com/size/80x80/images/ae0518d3-04ac-492f-a739-217ff4efbaf1/master_cached_image_20261128-33-ftfr74.png" width="80" height="80" alt="APM Practitioner - Full-Stack Observability Practices">](https://www.credential.net/951a8a2e-be86-4afd-833e-416d355dd4f4)
 [<img src="https://images.credly.com/size/80x80/images/3ea7af09-1df6-4615-a499-e9cc42b09db2/master_cached_image_20261128-30-icv2k.png" width="80" height="80" alt="New Relic Verified Foundation">](https://www.credential.net/988752e9-66d8-41cf-a1a4-dad5f2f326e2)
 [<img src="https://images.credly.com/size/80x80/images/7bd364a2-9285-42fe-8d2f-b561a7d1485e/ODCOFA_cached_image_20261108-33-ca3gqs.png" width="80" height="80" alt="Oracle Data Center Operations Certified Foundations Associate">](https://catalog-education.oracle.com/pls/certview/sharebadge?id=C939E117865B8B6295A52AFFAAB4138205967A2B66F347ED3C07D39044981FF1)
 [<img src="https://images.credly.com/size/80x80/images/1f630101-3c34-4bee-845b-e4e8e272aa4e/OMC26CFA_cached_image_20261108-33-y5iq75.png" width="80" height="80" alt="Oracle Multicloud Certified Foundations Associate">](https://catalog-education.oracle.com/pls/certview/sharebadge?id=5374DB1C982D35B20C41507E08CC235D4986ABB79305F0FF9EDC7FCAD8B0B284)
