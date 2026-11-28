@@ -51,7 +51,7 @@ Vamos trocar uma ideia sobre tecnologia, infraestrutura ou oportunidades? Me enc
 ## 🏆 Certificações e 📈 Atividades no GitHub 
 
 <details>
-  <summary> Certificações e Licenças (156) </summary>
+  <summary> Certificações e Licenças (159) </summary>
 
 <!--START_SECTION:badges-->
 [<img src="assets/images/badges/magalu-cloud-fundamentos.png" width="80" height="80" alt="Magalu Cloud Fundamentos">](https://academy.magalu.cloud/verificar-certificado/2371cae712577164135118a0873e49f5)
@@ -91,6 +91,9 @@ Vamos trocar uma ideia sobre tecnologia, infraestrutura ou oportunidades? Me enc
 [<img src="https://images.credly.com/size/80x80/images/699aeeb7-ece5-43f6-956c-f4b135138281/2ccbbo0y_1780579480759_badge_cached_image_20260604-30-6wfj5h.png" width="80" height="80" alt="Information Security Mgmt (ISO/IEC 27001) Foundation">](https://www.credential.net/ca123d5a-4de6-4667-a52b-b0865d8490d0)
 [<img src="https://images.credly.com/size/80x80/images/b3c99780-4fc5-404c-9b70-55e981f780f7/1kwl5dca_1779901358173_badge_cached_image_20260527-32-25jqb9.png" width="80" height="80" alt="ISO/IEC 20000 Lead Implementer">](https://www.credential.net/31627e9c-3e7c-46b7-8390-9a2eac11726b)
 [<img src="https://images.credly.com/size/80x80/images/3529eaab-739a-4b8b-a24e-5bf2ab898a73/bcowutvs_1779900040944_badge_cached_image_20260527-8-x9d7d.png" width="80" height="80" alt="ISO/IEC 20000 Foundation">](https://www.credential.net/de6bb181-d384-4350-8425-91873f3f207c)
+[<img src="https://images.credly.com/size/80x80/images/23f4bbd0-8185-4eac-9ba4-f99e7b9539c8/master_cached_image_20261128-31-z1nf9.png" width="80" height="80" alt="AI Fundamentals">](https://www.credential.net/3845c68c-4a63-4a67-93d9-9ce5fdcbc04a)
+[<img src="https://images.credly.com/size/80x80/images/f46fe14e-712a-4a27-9dc2-e90cfd387d10/master_cached_image_20261128-34-ewu0wf.png" width="80" height="80" alt="APM Practitioner - APM Foundations">](https://www.credential.net/c64146f1-f075-4dec-894e-eebb57c5f32e)
+[<img src="https://images.credly.com/size/80x80/images/3ea7af09-1df6-4615-a499-e9cc42b09db2/master_cached_image_20261128-30-icv2k.png" width="80" height="80" alt="New Relic Verified Foundation">](https://www.credential.net/988752e9-66d8-41cf-a1a4-dad5f2f326e2)
 [<img src="https://images.credly.com/size/80x80/images/7bd364a2-9285-42fe-8d2f-b561a7d1485e/ODCOFA_cached_image_20261108-33-ca3gqs.png" width="80" height="80" alt="Oracle Data Center Operations Certified Foundations Associate">](https://catalog-education.oracle.com/pls/certview/sharebadge?id=C939E117865B8B6295A52AFFAAB4138205967A2B66F347ED3C07D39044981FF1)
 [<img src="https://images.credly.com/size/80x80/images/1f630101-3c34-4bee-845b-e4e8e272aa4e/OMC26CFA_cached_image_20261108-33-y5iq75.png" width="80" height="80" alt="Oracle Multicloud Certified Foundations Associate">](https://catalog-education.oracle.com/pls/certview/sharebadge?id=5374DB1C982D35B20C41507E08CC235D4986ABB79305F0FF9EDC7FCAD8B0B284)
 [<img src="https://images.credly.com/size/80x80/images/e3779077-699b-4e47-857a-68a2094bb378/converted20260824-8-4qdys8.png" width="80" height="80" alt="Microsoft Certified: Azure Fundamentals">](https://learn.microsoft.com/api/credentials/share/pt-br/NiloLima-9821/AE01929A662BED53?sharingId=A2C90E15FB28B792)
@@ -199,7 +202,7 @@ Vamos trocar uma ideia sobre tecnologia, infraestrutura ou oportunidades? Me enc
 [<img src="https://images.credly.com/size/80x80/images/34d5aabf-7133-4c8f-a251-9749c14e3d47/blob" width="80" height="80" alt="Lean Leadership Learner 2025">](https://www.credly.com/badges/7c402f10-5018-49a3-aedd-15bf79aa68e6)
 [<img src="https://images.credly.com/size/80x80/images/3bcf235a-f803-4b79-a0e7-9d046025df79/image.png" width="80" height="80" alt="Generative AI Professional Certification - GAIPC™ !">](https://www.credly.com/badges/b1165ba3-4c35-4eca-9e22-480d4497e373)
 [<img src="https://images.credly.com/size/80x80/images/0785169c-fe18-4025-bce4-6feeecefa700/blob" width="80" height="80" alt="Lean Six Sigma White Belt Professional Certification - LSSWBPC">](https://www.credly.com/badges/03a530c0-75ef-4c4b-b352-c7480c845643)
-[<img src="https://images.credly.com/size/80x80/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width="80" height="80" alt="GitHub Foundations">](https://www.credly.com/badges/af038fa6-8448-48b2-96d2-8a8b611425e9)
+[<img src="https://images.credly.com/size/80x80/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width="80" height="80" alt="GitHub Foundations">](https://www.credly.com/badges/2d903a9b-75fc-4a5c-93ef-237be8df238e)
 [<img src="https://images.credly.com/size/80x80/images/0ea554ef-02cb-419c-8c47-27d03c4ccd2b/blob" width="80" height="80" alt="Business Intelligence Foundation Professional Certification - BIFPC™">](https://www.credly.com/badges/6de56263-f54a-4482-b4f3-a1295e746812)
 [<img src="https://images.credly.com/size/80x80/images/712a773b-9acc-4bc8-90fa-6afdfc95da1e/image.png" width="80" height="80" alt="Cybersecurity Awareness - CAPC !">](https://www.credly.com/badges/880b4dba-50c5-468b-8342-b95f23089b6c)
 [<img src="https://images.credly.com/size/80x80/images/ecaf2326-d800-4d50-8dd1-2a9f4d05850a/blob" width="80" height="80" alt="Design Sprint Professional Certification - DSPC™">](https://www.credly.com/badges/c112b69c-cc9e-4a3a-b780-0782ec08cdad)
